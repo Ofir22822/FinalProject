@@ -1,0 +1,4 @@
+You can define styles in a separate CSS file and enable them in the application by using the setStyleClass method.
+This method is inherited from the Node class and is available for all UI controls.
+Alternatively, you can define the style of a button directly in the code by using the setStyle method.
+Example 3-5 and Figure 3-4 demonstrate the latter approach..
