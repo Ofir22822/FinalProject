@@ -1,5 +1,7 @@
 package application;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 import java.io.*;
 
@@ -12,7 +14,7 @@ public class KNNController {
 	
 	private static BufferedReader datafile;
 	
-	public static double KNN(textObject txtObject) {
+	public static double KNN() {
 		double class1 = -1.0;
 		Instances data;
 		try {	
@@ -33,6 +35,10 @@ public class KNNController {
 			e.printStackTrace();
 		}
 		return class1;
+	}
+	
+	public static void setKNNData(String txtName) {
+		datafile = readDataFile(txtName);
 	}
 	
 	public static void setKNNData(String txtName, textObject txtObject){
@@ -59,4 +65,27 @@ public class KNNController {
 		return inputReader;
 	}
 
+	public static void createDictionaryData(textObject txtObject) {
+		
+		dbQuerys query = new dbQuerys();
+		
+		String attr = "@relation dictionary\n\n";
+		List<String> dictionaryWords = DictionaryController.convertDictionaryFileToList();
+		
+		for(int i = 0; i < dictionaryWords.size();i++) {
+			attr += "@attribute \""+dictionaryWords.get(i)+"\" numeric\n";
+		}
+		
+		attr += "@attribute classification {P, PE}\n\n@data\n";
+		
+		ArrayList<String> FrequencyFeauters = query.getFrequencyFeatures();
+		FrequencyFeauters.add(0, txtObject.getFrequencyFeature());	
+		
+		for(int i = 0; i < FrequencyFeauters.size();i++) {
+			attr += FrequencyFeauters.get(i) + "\n";
+		}
+		
+		FileFunctions.createTextFile("DictionaryDataKNN.txt", attr);
+	}
+	
 }

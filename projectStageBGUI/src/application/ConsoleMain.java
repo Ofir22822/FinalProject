@@ -21,8 +21,38 @@ public class ConsoleMain {
 
 	public static void main(String[] args) {
 		
+		File txt = new File("test2.txt");		
+		
+		File txtFile = new File("testText\\t1.txt");		
+		String result = DictionaryController.createFrequencyFeature(txtFile).replace(' ', ',')+"P";
+		
+		System.out.println(result.substring(0, 50));
+		
+		textObject to = new textObject();
+		to.setFrequencyFeature(DictionaryController.createFrequencyFeature(txt).replace(' ', ',')+"P");
+		
+		KNNController.createDictionaryData(to);
+		
+		KNNController.setKNNData("DictionaryDataKNN.txt");
+		System.out.println(KNNController.KNN());
+		
+		/*
 		dbQuerys query = new dbQuerys();
 		
+		for(int i = 1; i<=401; i++)
+		{
+			File txtFile = new File("testText\\t"+i+".txt");
+		
+			String result = DictionaryController.createFrequencyFeature(txtFile);
+		
+			query.addFrequencyFeature("test_t"+i+".txt", result);
+		
+			System.out.println("test_t"+i+".txt " + result);
+		}
+		*/
+		
+		
+		/*
 		// use SentiStrength API and initialize
 		SentiStrength sentiStrength = new SentiStrength();
 		// Create an array of command line parameters to send (not text or file to
@@ -50,7 +80,7 @@ public class ConsoleMain {
 			e.printStackTrace();
 		}
 		
-		
+		*/
 		//createTextFiles();
 		
 		//File txt = new File("resources\\HDPe\\t1.txt");

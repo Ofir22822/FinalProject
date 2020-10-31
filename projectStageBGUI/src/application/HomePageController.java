@@ -182,7 +182,7 @@ public class HomePageController {
     		}  
     		
     		KNNController.setKNNData("sentimentDataSentence.txt", txtObject);
-    		double KNNresult = KNNController.KNN(txtObject);
+    		double KNNresult = KNNController.KNN();
     		
     			if(KNNresult == -1.0)
     				lblClassification.setText("Error");
@@ -192,7 +192,7 @@ public class HomePageController {
     				lblClassification.setText("Personal Experience");
     			
     		KNNController.setKNNData("sentimentDataWord.txt", txtObject);
-    		KNNresult = KNNController.KNN(txtObject);
+    		KNNresult = KNNController.KNN();
     		
 			if(KNNresult == -1.0)
 				lblClassificationWords.setText("Error");

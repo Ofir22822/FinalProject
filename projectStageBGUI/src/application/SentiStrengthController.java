@@ -11,6 +11,15 @@ import uk.ac.wlv.sentistrength.SentiStrength;
 
 public class SentiStrengthController {
 
+	private static SentiStrength sentiStrength = new SentiStrength();
+	static {
+		// Create an array of command line parameters to send (not text or file to process)
+		String ssthInitialisation[] = { "sentidata", "resources\\SentStrength_Data\\", "scale" };
+		String ssthInitialisation3[] = { "sentidata", "resources\\SentStrength_Data\\", "explain" };
+		sentiStrength.initialise(ssthInitialisation); // Initialise
+		sentiStrength.initialise(ssthInitialisation3); // Initialise
+	}
+	
 	/***
 	 * create sentiment feature matrix weights of sentence in matrix 1,-1 to 5,-5 in
 	 * row 0 count of weights in row 1
@@ -26,7 +35,8 @@ public class SentiStrengthController {
 				"5,-3", "5,-4", "5,-5" };
 		String weightSentenceMat[][] = { { "0" }, new String[25] };
 		weightSentenceMat[0] = weightSentenceCombine;
-
+		
+/*
 		// use SentiStrength API and initialize
 		SentiStrength sentiStrength = new SentiStrength();
 		// Create an array of command line parameters to send (not text or file to
@@ -35,7 +45,8 @@ public class SentiStrengthController {
 		String ssthInitialisation3[] = { "sentidata", "resources\\SentStrength_Data\\", "explain" };
 		sentiStrength.initialise(ssthInitialisation); // Initialise
 		sentiStrength.initialise(ssthInitialisation3); // Initialise
-
+*/
+		
 		// get values for matrix
 		weightSentenceMat = getTextSenteceSentiment(sentiStrength, weightSentenceCombine, txtFile);
 

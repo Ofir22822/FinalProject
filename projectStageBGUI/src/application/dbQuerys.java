@@ -62,7 +62,6 @@ public class dbQuerys {
 	
 	/**
 	 * close connect to db
-	 * @return
 	 * @throws SQLException 
 	 */
 	public void closeConnectToDB() throws SQLException
@@ -145,6 +144,20 @@ public class dbQuerys {
 			e.printStackTrace();
 		}
 	}
+
+	public void addFrequencyFeature(String textName, String feature)
+	{
+		Statement stmt;
+		try
+		{
+			stmt = con.createStatement();
+			stmt.executeUpdate("UPDATE tbtextobject SET frequencyFeature='"+feature+"' WHERE textName='"+textName+"'");
+		}
+		catch (SQLException e) {
+			e.printStackTrace();
+		}
+	}
+	
 	
 	/***
 	 * get text subject list from db, with no subject duplicate
@@ -223,6 +236,34 @@ public class dbQuerys {
 		}
 		return SentimentFeautersList;
 	}
+	
+	/**
+	 * get all texts frequency features from db
+	 * @return ArrayList<String> with sentiment feature as string
+	 */
+	public ArrayList<String> getFrequencyFeatures () {
+		ArrayList<String> FrequencyFeautersList = new ArrayList<>();
+		Statement stmt;
+		try
+		{
+			stmt = con.createStatement();
+			ResultSet rs = stmt.executeQuery("SELECT frequencyFeature, classificationID FROM tbtextobject;");
+	 		while(rs.next())
+	 		{
+				 // add subjects to list
+	 			if(rs.getInt(2)==1)
+	 				FrequencyFeautersList.add(rs.getString(1).replace(' ', ',')+"P");
+	 			if(rs.getInt(2)==2)
+	 				FrequencyFeautersList.add(rs.getString(1).replace(' ', ',')+"PE");
+			} 
+			rs.close();
+		}
+		catch (SQLException e) {
+			e.printStackTrace();
+		}
+		return FrequencyFeautersList;
+	}
+	
 	
 	
 	/**
