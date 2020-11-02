@@ -4,16 +4,16 @@
 	<classpathentry kind="src" path="resources"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
-	<classpathentry kind="lib" path="jackson-annotations-2.9.0.jar"/>
-	<classpathentry kind="lib" path="jackson-core-2.9.5.jar"/>
-	<classpathentry kind="lib" path="jackson-databind-2.9.5.jar"/>
-	<classpathentry kind="lib" path="SentiStrengthCom.jar"/>
-	<classpathentry kind="lib" path="textrazor-1.0.12.jar"/>
-	<classpathentry kind="lib" path="mysql-connector-java-5.1.46.jar"/>
-	<classpathentry kind="lib" path="opennlp-tools-1.9.3.jar"/>
-	<classpathentry kind="lib" path="snowball.jar"/>
-	<classpathentry kind="lib" path="math.jar"/>
-	<classpathentry kind="lib" path="commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/FinalProject/projectStageBGUI/jars/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/FinalProject/projectStageBGUI/jars/jackson-core-2.9.5.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/FinalProject/projectStageBGUI/jars/jackson-databind-2.9.5.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/FinalProject/projectStageBGUI/jars/SentiStrengthCom.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/FinalProject/projectStageBGUI/jars/textrazor-1.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/FinalProject/projectStageBGUI/jars/mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/FinalProject/projectStageBGUI/jars/opennlp-tools-1.9.3.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/FinalProject/projectStageBGUI/jars/snowball.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/FinalProject/projectStageBGUI/jars/math.jar"/>
+	<classpathentry kind="lib" path="D:/GitHub/FinalProject/projectStageBGUI/jars/commons-math3-3.6.1.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

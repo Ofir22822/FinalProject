@@ -73,7 +73,7 @@ public class FileFunctions {
 		PrintWriter outFile;
 		try {
 			outFile = new PrintWriter(newFile);
-			outFile.println(text);
+			outFile.print(text);
 			outFile.close();
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
@@ -121,4 +121,48 @@ public class FileFunctions {
 		return textString;
 	}
 
+	public static List<String> convertTextFileToList(File textFile) {
+
+		List<String> listString = new ArrayList<>();
+
+		Scanner myReader;
+		try {
+			myReader = new Scanner(textFile);
+			while (myReader.hasNextLine()) {
+				listString.add(myReader.nextLine());
+			}
+			myReader.close();
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
+
+		return listString;
+	}
+
+	public static List<File>[] getAllTrainigSetTexts(dbQuerys query) {
+		
+		List<File> textsList[] = new ArrayList[2];
+		List<File> pList = new ArrayList<File>();
+		List<File> peList = new ArrayList<File>();
+		
+		textsList[0] = pList;
+		textsList[1] = peList;
+		
+		for (int i = 1; i <= 401; i++) {
+
+			File dataFile = new File("testText\\t" + i + ".txt");
+			int res = query.getClassification("test_t" + i + ".txt");
+
+			if (res == 1)
+				pList.add(dataFile);
+			else if (res == 2)
+				peList.add(dataFile);
+			else
+				System.out.print("error: t" + i + ".txt");
+		}
+		
+		return textsList;
+		
+	}
+	
 }

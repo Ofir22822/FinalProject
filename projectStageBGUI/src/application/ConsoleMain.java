@@ -31,7 +31,8 @@ public class ConsoleMain {
 		textObject to = new textObject();
 		to.setFrequencyFeature(DictionaryController.createFrequencyFeature(txt).replace(' ', ',')+"P");
 		
-		KNNController.createDictionaryData(to);
+		DictionaryController.setDbquery(new dbQuerys());
+		DictionaryController.createDictionaryData(to);
 		
 		KNNController.setKNNData("DictionaryDataKNN.txt");
 		System.out.println(KNNController.KNN());
@@ -222,7 +223,7 @@ public class ConsoleMain {
 		
 	public static void addTextFileToDB(File txtFile, String Classification) {
 		
-		String weightSentenceMat[][] = SentiStrengthController.getSentimentFeature(txtFile);
+		String weightSentenceMat[][] = SentiStrengthController.getSentimentFeatureSentences(txtFile);
 		String sentimentFeature = SentiStrengthController.sentimentMatrixToString(weightSentenceMat, 25);
 		String subject = TextRazorController.getTextSubject(txtFile);
 		subject = (subject == null) ? "" : subject;

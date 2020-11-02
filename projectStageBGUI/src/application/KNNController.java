@@ -12,6 +12,7 @@ import weka.core.Instances;
 
 public class KNNController {
 	
+	public static dbQuerys query;
 	private static BufferedReader datafile;
 	
 	public static double KNN() {
@@ -41,18 +42,7 @@ public class KNNController {
 		datafile = readDataFile(txtName);
 	}
 	
-	public static void setKNNData(String txtName, textObject txtObject){
-		try {
-			SentiStrengthController.createSentimentDataForKNN(txtObject);
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		
-		datafile = readDataFile(txtName);
-	}
-	
-	public static BufferedReader readDataFile(String filename) {
+	private static BufferedReader readDataFile(String filename) {
 		BufferedReader inputReader = null;
  
 		try {
@@ -65,27 +55,8 @@ public class KNNController {
 		return inputReader;
 	}
 
-	public static void createDictionaryData(textObject txtObject) {
-		
-		dbQuerys query = new dbQuerys();
-		
-		String attr = "@relation dictionary\n\n";
-		List<String> dictionaryWords = DictionaryController.convertDictionaryFileToList();
-		
-		for(int i = 0; i < dictionaryWords.size();i++) {
-			attr += "@attribute \""+dictionaryWords.get(i)+"\" numeric\n";
-		}
-		
-		attr += "@attribute classification {P, PE}\n\n@data\n";
-		
-		ArrayList<String> FrequencyFeauters = query.getFrequencyFeatures();
-		FrequencyFeauters.add(0, txtObject.getFrequencyFeature());	
-		
-		for(int i = 0; i < FrequencyFeauters.size();i++) {
-			attr += FrequencyFeauters.get(i) + "\n";
-		}
-		
-		FileFunctions.createTextFile("DictionaryDataKNN.txt", attr);
+	public static void setDbquery(dbQuerys queryNew) {
+		query = queryNew;
 	}
 	
 }

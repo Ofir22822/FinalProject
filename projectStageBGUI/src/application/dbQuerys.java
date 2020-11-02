@@ -3,38 +3,18 @@ import java.sql.*;
 import java.util.ArrayList;
 
 public class dbQuerys {
-	/*test*/
+
 	private Connection con;
 	
 	public dbQuerys() {
 		this.con = connectToDB();
 	}
 	
-	public static void main(String[] args) 
-	{
-		try 
-		{
-            Class.forName("com.mysql.jdbc.Driver").newInstance();
-        } catch (Exception ex) {/* handle the error*/}
-        
-        try 
-        {
-            Connection conn = DriverManager.getConnection("jdbc:mysql://localhost/finalprojectdb","root","123456");
-            //Connection conn = DriverManager.getConnection("jdbc:mysql://192.168.3.68/test","root","Root");
-            System.out.println("SQL connection succeed");
-            //createTableCourses(conn);
-            printCourses(conn);
-     	} catch (SQLException ex) 
-     	    {/* handle any errors*/
-            System.out.println("SQLException: " + ex.getMessage());
-            System.out.println("SQLState: " + ex.getSQLState());
-            System.out.println("VendorError: " + ex.getErrorCode());
-            }
-   	}
+	/*connection open/close functions*/
 	
 	/**
 	 * connect to db, return connection object
-	 * @return
+	 * @return connection
 	 */
 	public static Connection connectToDB()
 	{
@@ -47,10 +27,7 @@ public class dbQuerys {
         try 
         {
             conn = DriverManager.getConnection("jdbc:mysql://localhost/finalprojectdb","root","123456");
-            //Connection conn = DriverManager.getConnection("jdbc:mysql://192.168.3.68/test","root","Root");
             System.out.println("SQL connection succeed");
-            //createTableCourses(conn);
-            //printCourses(conn);
      	} catch (SQLException ex) 
      	    {/* handle any errors*/
             System.out.println("SQLException: " + ex.getMessage());
@@ -69,6 +46,7 @@ public class dbQuerys {
 		con.close();
 	}
 	
+	/*adding new items to database functions*/
 	
 	/**
 	 * add new text to db
@@ -158,6 +136,7 @@ public class dbQuerys {
 		}
 	}
 	
+	/*get list of items functions*/
 	
 	/***
 	 * get text subject list from db, with no subject duplicate
@@ -264,7 +243,7 @@ public class dbQuerys {
 		return FrequencyFeautersList;
 	}
 	
-	
+	/*other functions*/
 	
 	/**
 	 * get classification of specific text from db
@@ -286,41 +265,5 @@ public class dbQuerys {
  				
 		return result;
 	}
-	
-	
-	private static void printCourses(Connection con)
-	{
-		Statement stmt;
-		try 
-		{
-			stmt = con.createStatement();
-			
-			String name = "p";
-			int classID = 1;
-			for(int i =0;i<10;i++)
-			{
-				if(i >= 5)
-				{
-					name = "pe";
-					classID = 2;
-				}
-				//System.out.print("INSERT INTO tbtextobject (textName, subject, classificationID) VALUES('"+name+((i%5)+1)+"', \"travel\", "+classID+");");
-			
-				//stmt.executeUpdate("INSERT INTO tbtextobject (textName, subject, classificationID) VALUES('"+name+((i%5)+1)+"', \"travel\", "+classID+");");
-			}
-			
-			
-			ResultSet rs = stmt.executeQuery("SELECT * FROM tbtextobject;");
-			
-	 		while(rs.next())
-	 		{
-				 // Print out the values
-	 			textObject obj = new textObject(rs.getInt(1),rs.getString(2),rs.getString(3),rs.getInt(4),rs.getString(5),rs.getString(6));
-				 System.out.println(obj);
-			} 
-			rs.close();
-			//stmt.executeUpdate("UPDATE course SET semestr=\"W08\" WHERE num=61309");
-		} catch (SQLException e) {e.printStackTrace();}
-	}
-	
+
 }
