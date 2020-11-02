@@ -27,6 +27,7 @@ import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.web.WebView;
+import unitTest.sentiStrengthTest;
 import weka.classifiers.Classifier;
 import weka.classifiers.lazy.IBk;
 import weka.core.Instance;
@@ -35,6 +36,7 @@ import weka.core.Instances;
 public class HomePageController {
 
 	public int countText = 1;
+	dbQuerys query = new dbQuerys();
 	
 	@FXML
 	private Button btnFile;
@@ -76,6 +78,14 @@ public class HomePageController {
     private String fileName;
 	
 	@FXML
+	public void initialize() {
+		SentiStrengthController.setDbquery(query);
+		DictionaryController.setDbquery(query);
+		KNNController.setDbquery(query);
+		TextRazorController.setDbquery(query);
+	}
+    
+	@FXML
 	void openFile(MouseEvent event) {
 		FileNameExtensionFilter filter = new FileNameExtensionFilter("PDF Files", ".pdf");
 		JFileChooser fileChooser = new JFileChooser();
@@ -111,48 +121,42 @@ public class HomePageController {
 		 */
 	}
 
-	File createTextFile(String text) {
+	File createFileForNewText(String text) {
 		
-		File textFile = null;
-		String[] textLine = text.split("\\. "); //split text at dot - .
 		File countFile = new File("webTexts\\counter.txt");
+		
 		try {
 			//read text counter
 			Scanner myReader = new Scanner(countFile);
 			countText = Integer.parseInt(myReader.nextLine());
 			myReader.close();
+			
 			//write text to file "wi.txt"
-			FileWriter myWriter = new FileWriter("webTexts\\w"+countText+".txt");
+			String newTextFileName = "webTexts\\w"+countText+".txt";
+			FileFunctions.createTextFile(newTextFileName, text);
 			
 			//write to text counter +1 to number
 			countText++;
 			FileWriter countWriter = new FileWriter("webTexts\\counter.txt");
 			countWriter.write(""+countText);
 			countWriter.close();
-			
-			//write lines from text in file
-			for(String line : textLine)
-			{
-				System.out.println(line);
-				myWriter.write(line+".\n");
-			}
-			myWriter.close();
-			textFile = new File("webTexts\\w"+(--countText)+".txt");
 
+			return new File(newTextFileName);
+			
 		} catch (IOException e) {
 			System.out.println("An error occurred.");
 			e.printStackTrace();
 		}
-		return textFile;
+		return null;
 	}
 	
 	@FXML
 	void clickAnalyze(MouseEvent event) {
 		String text = tbText.getText();			//get text from textarea
-		File textFile = createTextFile(text);
+		File textFile = createFileForNewText(text);
 		fileName = textFile.getName();
 		if(textFile!=null) {		
-			sentimentFeatures = SentiStrengthController.getSentimentFeature(textFile);
+			sentimentFeatures = SentiStrengthController.getSentimentFeatureSentences(textFile);
 			String subject = TextRazorController.getTextSubject(textFile);			
 			
 			lblSubject.setText(subject);
@@ -166,7 +170,7 @@ public class HomePageController {
     		
     		textObject txtObject = new textObject();
     		txtObject.setSentimentFeatureSentence(SentiStrengthController.sentimentMatrixToString(sentimentFeatures,25).replace(' ', ',')+"P");
-    		txtObject.setSentimentFeatureWord(SentiStrengthController.getTextWordsSentiment(textFile).replace(' ', ',')+"P");
+    		txtObject.setSentimentFeatureWord(SentiStrengthController.getSentimentFeatureWords(textFile).replace(' ', ',')+"P");
     		txtObject.setSubject(subject);
     		
     		boolean isSubjectExist = TextRazorController.checkExistSubject(subject);
@@ -181,8 +185,11 @@ public class HomePageController {
     			int i = 0;
     		}  
     		
-    		KNNController.setKNNData("sentimentDataSentence.txt", txtObject);
-    		double KNNresult = KNNController.KNN(txtObject);
+    		//sentiment knn data for sentence & word
+    		SentiStrengthController.createSentimentKNNData(txtObject);
+    		
+    		KNNController.setKNNData("sentiment\\\\sentimentDataKNNSentence.txt");
+    		double KNNresult = KNNController.KNN();
     		
     			if(KNNresult == -1.0)
     				lblClassification.setText("Error");
@@ -191,8 +198,8 @@ public class HomePageController {
     			else
     				lblClassification.setText("Personal Experience");
     			
-    		KNNController.setKNNData("sentimentDataWord.txt", txtObject);
-    		KNNresult = KNNController.KNN(txtObject);
+    		KNNController.setKNNData("sentiment\\sentimentDataKNNWord.txt");
+    		KNNresult = KNNController.KNN();
     		
 			if(KNNresult == -1.0)
 				lblClassificationWords.setText("Error");
@@ -214,10 +221,8 @@ public class HomePageController {
 		//btnAddToTS.setVisible(true);	
 	}
 
-
     @FXML
     void clickAddTextToTS() {
-    	dbQuerys query = new dbQuerys();
     	query.addNewText(fileName, lblSubject.getText(), lblClassification.getText(), SentiStrengthController.sentimentMatrixToString(sentimentFeatures, 25));
     	lblAddMsg.setText("added to db");
     	lblAddMsg.setVisible(true);

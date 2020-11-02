@@ -1,5 +1,7 @@
 package application;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 import java.io.*;
 
@@ -10,9 +12,10 @@ import weka.core.Instances;
 
 public class KNNController {
 	
+	public static dbQuerys query;
 	private static BufferedReader datafile;
 	
-	public static double KNN(textObject txtObject) {
+	public static double KNN() {
 		double class1 = -1.0;
 		Instances data;
 		try {	
@@ -35,18 +38,11 @@ public class KNNController {
 		return class1;
 	}
 	
-	public static void setKNNData(String txtName, textObject txtObject){
-		try {
-			SentiStrengthController.createSentimentDataForKNN(txtObject);
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		
+	public static void setKNNData(String txtName) {
 		datafile = readDataFile(txtName);
 	}
 	
-	public static BufferedReader readDataFile(String filename) {
+	private static BufferedReader readDataFile(String filename) {
 		BufferedReader inputReader = null;
  
 		try {
@@ -59,4 +55,8 @@ public class KNNController {
 		return inputReader;
 	}
 
+	public static void setDbquery(dbQuerys queryNew) {
+		query = queryNew;
+	}
+	
 }

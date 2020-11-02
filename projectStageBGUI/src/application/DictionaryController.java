@@ -13,6 +13,7 @@ import java.util.stream.Stream;
 import org.apache.commons.math3.analysis.function.Abs;
 import org.apache.commons.math3.stat.correlation.SpearmansCorrelation;
 
+import junit.framework.TestFailure;
 import opennlp.tools.stemmer.PorterStemmer;
 
 import java.util.regex.Pattern;
@@ -20,9 +21,10 @@ import weka.core.Stopwords;
 
 public class DictionaryController {
 
-	private static Set<String> dictionarytWords = new HashSet<>();
+	public static dbQuerys query;
+	
+	/* preprocessing variables */
 
-	private static String RESULT_FNAME = "Output.txt";
 	private static HashMap irregularSingulars = new HashMap(100);
 	private static HashMap irregularPlurals = new HashMap(100);
 	static {
@@ -160,17 +162,13 @@ public class DictionaryController {
 		irregularPlurals.put("women", "woman");
 	} // end static initialization block
 
-	public static String preProcessingText(String text) {
-		String result = text.replaceAll("[^a-zA-Z ]", "").toLowerCase();
-		Stopwords sw = new Stopwords();
-		return result;
-	}
+	/* preprocessing helping functions */
 
 	/**
 	 * Tests whether the given (presumed) English noun is singular. A word like
 	 * "sheep" that can be either singular or plural yields true.
 	 */
-	public static boolean isSingular(String word) {
+	private static boolean isSingular(String word) {
 		word = word.toLowerCase();
 		if (irregularSingulars.containsKey(word))
 			return true;
@@ -192,7 +190,7 @@ public class DictionaryController {
 	 * Returns the singular of a given (presumed) English word. The given word may
 	 * be plural or (already) singular.
 	 */
-	public static String singularOf(String word) {
+	private static String singularOf(String word) {
 		word = word.toLowerCase();
 		if (isSingular(word))
 			return word;
@@ -235,11 +233,13 @@ public class DictionaryController {
 		return word.substring(0, length - 1); // keep the final e.
 	} // end singularOf
 
-	public static void loadStopwords() throws IOException {
-		List<String> stopwords = Files.readAllLines(Paths.get("english_stopwords.txt"));
-	}
-
-	public static String RemoveStopwordsUsingRemoveAll(String original, List<String> stopwords) {
+	/**
+	 * remove stopwords form text
+	 * @param original
+	 * @param stopwords
+	 * @return
+	 */
+	private static String removeStopwords(String original, List<String> stopwords) {
 		// String original = "The quick brown fox jumps over the lazy dog";
 		ArrayList<String> allWords = Stream.of(original.toLowerCase().split(" "))
 				.collect(Collectors.toCollection(ArrayList<String>::new));
@@ -249,61 +249,62 @@ public class DictionaryController {
 		return result;
 	}
 
-	public static String[] readStopWords() {
-		String[] stopWords = null;
+	/**
+	 * read english_stopwords.txt file, and put all words in string array
+	 * @return stopwords in string array
+	 */
+	private static String[] readStopWords() {
+		List<String> stopWords = new ArrayList<String>();
 		try {
-			File WordsFile = new File("english_stopwords.txt");
-			Scanner stopWordsFile = new Scanner(WordsFile);
-			int numStopWords = 127;// stopWordsFile.nextInt();
+			File WordsFile = new File("dictionary\\english_stopwords.txt");
+			Scanner stopWordsScanner = new Scanner(WordsFile);
 
-			stopWords = new String[numStopWords];
+			while(stopWordsScanner.hasNextLine())
+				stopWords.add(stopWordsScanner.nextLine());
 
-			for (int i = 0; i < numStopWords; i++)
-				stopWords[i] = stopWordsFile.nextLine();
-
-			stopWordsFile.close();
+			stopWordsScanner.close();
 		} catch (FileNotFoundException e) {
 			System.err.println(e.getMessage());
 			System.exit(-1);
 		}
 
-		return stopWords;
+		return stopWords.toArray(new String[0]);
 	}
-
-	public static String[] createTokenWords(File textFilename, String[] stopWords) {
+	
+	/**
+	 * create tokens of words from text file
+	 * 
+	 * @param textFilename
+	 * @param stopWords
+	 * @return
+	 */
+	public static String[] createTokenWords(File textFilename) {
 		String word;
-
+		String[] stopWords = readStopWords();
+		
 		try {
-			Scanner textFile = new Scanner(textFilename);
-			textFile.useDelimiter(Pattern.compile("[ \n\r\t,.;:?!'\"]+"));
+			Scanner textFileScanner = new Scanner(textFilename);
+			textFileScanner.useDelimiter(Pattern.compile("[ \n\r\t,.;:?!'\"]+"));
 
-			PrintWriter outFile = new PrintWriter(new File(RESULT_FNAME));
-			String fileText = "";
-			while (textFile.hasNextLine()) {
-				fileText += textFile.nextLine() + " ";
-				/*
-				 * word = textFile.next();
-				 * 
-				 * if (isStopWord(word, stopWords)) System.out.print(word + " "); else
-				 * outFile.print(word + " ");
-				 */
+			String fileTextString = "";
+			while (textFileScanner.hasNextLine()) {
+				fileTextString += textFileScanner.nextLine() + " ";
 			}
-			String res = fileText.replaceAll("[^a-zA-Z ]", "").toLowerCase();
-			res = RemoveStopwordsUsingRemoveAll(res, Arrays.asList(stopWords));
-			String[] tokens = res.split(" ");
+			
+			String resultString = fileTextString.replaceAll("[^a-zA-Z ]", "").toLowerCase();
+			resultString = removeStopwords(resultString, Arrays.asList(stopWords));
+			
+			String[] tokens = resultString.split(" ");
+			
 			PorterStemmer porterStemmer = new PorterStemmer();
-
 			for (int i = 0; i < tokens.length; i++) {
-				tokens[i] = singularOf(tokens[i]); // plural to singular
-				tokens[i] = porterStemmer.stem(tokens[i]); // root word, stemming
-
-				outFile.print(tokens[i] + " "); // print to ouput file
+				tokens[i] = singularOf(tokens[i]); 			// plural to singular
+				tokens[i] = porterStemmer.stem(tokens[i]);	// root word, stemming
 			}
 
-			//System.out.println("Output File " + RESULT_FNAME);
-			textFile.close();
-			outFile.close();
+			textFileScanner.close();
 			return tokens;
+			
 		} catch (FileNotFoundException e) {
 			System.err.println(e.getMessage());
 			System.exit(-1);
@@ -311,50 +312,33 @@ public class DictionaryController {
 		return null;
 	}
 
-	public static void addWordsToDictionary(String[] words) {
-		dictionarytWords.addAll(Arrays.asList(words));
-	}
-
-	public static void createDictionaryFile() {
-		try {
-			PrintWriter outFile = new PrintWriter(new File("dictionarytWords.txt"));
-
-			for (String word : dictionarytWords) {
-				outFile.println(word);
-			}
-
-			outFile.close();
-
-		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-	}
-
 	
-	
-	
-	
-	public static Integer[][] buildFrequencyMatrix(List<File> listText, List<String> dictionaryWords)
-	{
-		Integer[][] freqMatrix = new Integer[listText.size()][dictionaryWords.size()];
+	/* function to create words token file from text files	*/
+
+	/**
+	 * create all tokens words file from all texts in testText folder
+	 */
+	public static void createAllTextsWordsTokensFile() {
+		List<File> textFilesList = FileFunctions.getTextFilesInFolder("testText");
+		textFilesList.remove(0);	//remove counter file
+		FileFunctions.combineAllTextFiles(textFilesList);
 		
-		for(int i = 0; i<listText.size();i++)
-		{
-			String[] textTokens = createTokenWords(listText.get(i), readStopWords());
-			for(int j = 0; j<dictionaryWords.size();j++)
-			{
-				freqMatrix[i][j] = Collections.frequency(Arrays.asList(textTokens), dictionaryWords.get(j));
-				if(freqMatrix[i][j] == 0)
-					freqMatrix[i][j] = 1;
-				
-			}
-		}
-		return freqMatrix;
+		File allText = new File("allText.txt");
+		
+		String[] allTextsWordsTokens = createTokenWords(allText);
+		Set<String> dictionaryWords = new HashSet<>();
+		dictionaryWords.addAll(Arrays.asList(allTextsWordsTokens));
+
+		FileFunctions.createTextFile("dictionary\\AllWordsTokens.txt", dictionaryWords);	
 	}
 	
-	public static List<String> convertDictionaryFileToList(){
-		File dataFile = new File("dictionarytWords.txt");
+	/**
+	 * read AllWordsTokens.txt and return words tokens in string list
+	 * 
+	 * @return
+	 */
+	public static List<String> getAllWordsTokens() {
+		File dataFile = new File("dictionary\\AllWordsTokens.txt");
 		Scanner myReader;
 		List<String> dictionryWords = new ArrayList<String>();
 		try {
@@ -368,116 +352,174 @@ public class DictionaryController {
 		}
 		return dictionryWords;
 	}
+
 	
+	/* dictionary */
 	
-	
-	public static void buildDictionary()
-	{
+	/**
+	 * build frequency matrix form texts and words
+	 * 
+	 * @param listText        - list of text to check
+	 * @param dictionaryWords - words to check frequency of
+	 * @return matrix[i][j] = ( text i, word j ) frequency value, if word not in
+	 *         text put 1
+	 */
+	public static Integer[][] buildFrequencyMatrix(List<File> listText, List<String> dictionaryWords) {
+		Integer[][] freqMatrix = new Integer[listText.size()][dictionaryWords.size()];
+
+		for (int i = 0; i < listText.size(); i++) {
+			
+			//create tokens from text i in list
+			String[] textTokens = createTokenWords(listText.get(i));
+			
+			for (int j = 0; j < dictionaryWords.size(); j++) {
+				//calculate how much word j from dictionary appears in text i
+				freqMatrix[i][j] = Collections.frequency(Arrays.asList(textTokens), dictionaryWords.get(j));
+				if (freqMatrix[i][j] == 0)
+					freqMatrix[i][j] = 1;
+			}
+		}
+		return freqMatrix;
+	}
+
+	public static void buildDictionary() {
 		int count = 1, count2 = 1;
 		dbQuerys query = new dbQuerys();
-		//2 matrix
-		List<File> pList = new ArrayList<File>();
-		List<File> peList = new ArrayList<File>();
 		
-		for (int i = 1; i <= 401; i++) {
-			
-			File dataFile = new File("testText\\t"+i+".txt");
-			int res = query.getClassification("test_t"+i+".txt");
+		// 2 text lists, for personal experience an dpromotion texts
+		List<File> textsList[] = FileFunctions.getAllTrainigSetTexts(query);
+		List<File> pTextsList = textsList[0];
+		List<File> peTextsList = textsList[1];
 
-			if(res == 1)
-				pList.add(dataFile);
-			else if(res == 2)
-				peList.add(dataFile);
-			else
-				System.out.print("error: t"+i+".txt");
-		}
-		
-		
-		List<String> words =  convertDictionaryFileToList();
-		
-		Integer[][] pFreqMatrix = buildFrequencyMatrix(pList, words);
-		Integer[][] peFreqMatrix = buildFrequencyMatrix(peList, words);
-		
+		List<String> wordsTokens = getAllWordsTokens();
+
+		Integer[][] pFreqMatrix = buildFrequencyMatrix(pTextsList, wordsTokens);
+		Integer[][] peFreqMatrix = buildFrequencyMatrix(peTextsList, wordsTokens);
+
 		int maxLengthVector = 0;
-		if(pFreqMatrix.length > peFreqMatrix.length)
+		if (pFreqMatrix.length > peFreqMatrix.length)
 			maxLengthVector = pFreqMatrix.length;
 		else
 			maxLengthVector = peFreqMatrix.length;
-		
+
 		double[] pVector = new double[maxLengthVector];
 		double[] peVector = new double[maxLengthVector];
-		
-		System.out.println("pVector.length: "+pVector.length);
-		System.out.println("peVector.length: "+peVector.length);
 
-		for(int i = 0; i<words.size();i++)
-		{
-			//get word from 2 matrix (2 vectors)
-			for(int j = 0; j< maxLengthVector; j++)	
-			{
-				if(j > pFreqMatrix.length)
+		System.out.println("pVector.length: " + pVector.length);
+		System.out.println("peVector.length: " + peVector.length);
+
+		for (int i = 0; i < wordsTokens.size(); i++) {
+			// get word from 2 matrix (2 vectors)
+			for (int j = 0; j < maxLengthVector; j++) {
+				if (j > pFreqMatrix.length)
 					pVector[j] = 1;
 				else
 					pVector[j] = pFreqMatrix[j][i];
-				
-				if(j > peFreqMatrix.length)
+
+				if (j > peFreqMatrix.length)
 					peVector[j] = 1;
-				else
-				{
+				else {
 					try {
-					peVector[j] = peFreqMatrix[j][i];
-					}
-					catch(Exception e){
+						peVector[j] = peFreqMatrix[j][i];
+					} catch (Exception e) {
 						peVector[j] = 1;
 					}
 				}
 			}
 
-			//System.out.println("");
-			
-			//spearman & threshold
+			// System.out.println("");
+
+			// spearman & threshold
 			SpearmansCorrelation sp = new SpearmansCorrelation();
 			double spResult = sp.correlation(pVector, peVector);
-			
-			if(!Double.isNaN(spResult)) 
-			{
-				System.out.println(count+" "+words.get(i)+" - Correlation:"+spResult+"");
+
+			if (!Double.isNaN(spResult)) {
+				System.out.println(count + " " + wordsTokens.get(i) + " - Correlation:" + spResult + "");
 				count++;
 			}
-			//else
-				//System.out.println("Correlation: isNaN");
-				
-			if(Math.abs(spResult) < 0.1 )
-			{
-				//add word to Dictionary if needed
-				query.addWordsToDictionary(words.get(i)); 
+			// else
+			// System.out.println("Correlation: isNaN");
+
+			if (Math.abs(spResult) < 0.1) {
+				// add word to Dictionary if needed
+				query.addWordsToDictionary(wordsTokens.get(i));
 				count2++;
 			}
-			
+
 		}
-		
-		System.out.println("count: "+ count+"    count2: "+count2);
+
+		System.out.println("count: " + count + "    count2: " + count2);
 	}
 
-	//function create dictionary feature for new text
-	//how to use for knn
+	public static String createFrequencyFeature(File textFile)
+	{
+		String tokens[] = createTokenWords(textFile);
+		List<String> dictionaryWords = getAllWordsTokens();
+		
+		int FrequencyFeature[] = new int[dictionaryWords.size()];
+		
+		for (int i = 0; i < dictionaryWords.size(); i++) {
+			FrequencyFeature[i] = Collections.frequency(Arrays.asList(tokens), dictionaryWords.get(i));
+			if (FrequencyFeature[i] == 0)
+				FrequencyFeature[i] = 1;
+		}
+		
+		return intArrayToString(FrequencyFeature);	
+	}
 	
+	public static String intArrayToString(int arr[]) {
+		String arrStr = "";
+		
+		for(int i =0; i<arr.length;i++)
+		{
+			arrStr += arr[i]+" ";
+		}
+		
+		return arrStr;		
+	}
 	
+	// function create dictionary feature for new text
+	// how to use for knn
+
+	/*dictionary data for KNN functions*/
+	
+	public static void createDictionaryData(textObject txtObject) {
+
+		String attr = "@relation dictionary\n\n";
+		List<String> dictionaryWords = DictionaryController.getAllWordsTokens();
+		
+		for(int i = 0; i < dictionaryWords.size();i++) {
+			attr += "@attribute \""+dictionaryWords.get(i)+"\" numeric\n";
+		}
+		
+		attr += "@attribute classification {P, PE}\n\n@data\n";
+		
+		ArrayList<String> FrequencyFeauters = query.getFrequencyFeatures();
+		FrequencyFeauters.add(0, txtObject.getFrequencyFeature());	
+		
+		for(int i = 0; i < FrequencyFeauters.size();i++) {
+			attr += FrequencyFeauters.get(i) + "\n";
+		}
+		
+		FileFunctions.createTextFile("dictionary\\DictionaryDataKNN.txt", attr);
+	}
+	
+	public static void setDbquery(dbQuerys queryNew) {
+		query = queryNew;
+	}
+
 	public static void main(String[] arg) {
-		
-		//File text = new File("t2.txt");
-		//List<File> listText = new ArrayList<File>();
-		//listText.add(text);
-		
+
+		// File text = new File("t2.txt");
+		// List<File> listText = new ArrayList<File>();
+		// listText.add(text);
+
 		buildDictionary();
-		
-		//List<String> dictionaryWords = convertDictionaryFileToList();
-		
-		//buildFrequencyMatrix(listText, dictionaryWords);
-		
-		
-		
-		
+
+		// List<String> dictionaryWords = convertDictionaryFileToList();
+
+		// buildFrequencyMatrix(listText, dictionaryWords);
+
 		//words file create
 		/*
 		Scanner keyboard = new Scanner(System.in);
@@ -519,5 +561,6 @@ public class DictionaryController {
 		createDictionaryFile();
 
 		*/
+
 	}
 }
