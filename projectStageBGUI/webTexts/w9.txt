@@ -1,6 +1,0 @@
-K-nearest neighbors is a lazy learning algorithm.
-KNN is a typical example of a lazy learner.
-It is called lazy not because of its apparent simplicity, but because it doesn't learn a discriminative function from the training data but memorizes the training dataset instead.
-
-Eager Learning is opposite to Lazy Learning, in which the system tries to construct a general, input-independent target function during training of the system, where generalization beyond the training data is delayed until a query is made to the system.
-The last 2 articles we have seen is of eager learning type..
