@@ -1,0 +1,62 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+#btnFile{
+	-fx-background-image:url(../../images/img1.png) ;
+	-fx-background-size:100%;
+		-fx-background-repeat: no-repeat ;
+}
+
+#btnWebsite{
+	-fx-background-image:url(../../images/img2.png) ;
+	-fx-background-size:100%;
+	-fx-background-repeat: no-repeat ;
+}
+
+#webView{
+	-fx-border-style: solid ;
+	-fx-border-width: 1px;
+	-fx-border-color: black;
+}
+
+.tab-label {
+    -fx-font-size: 24px ;
+    -fx-font-weight: bold;
+}
+
+.root {
+    
+}
+
+.tab-label {
+    -fx-font-size: 24px ;
+    -fx-font-weight: bold;
+    -fx-text-fill: #FFFFFF;
+}
+
+.setting{
+	    -fx-text-fill: #0E323F;
+}
+
+.tab{
+	-fx-background-color: #1A6499;
+}
+.tab:selected{
+	-fx-background-color: #C4CBCF;
+}
+.tab-pane {
+    -fx-tab-min-width:300px;
+    -fx-tab-max-width:300px;
+    -fx-tab-min-height:50px;
+    -fx-tab-max-height:50px;
+
+}
+.main{
+	/*-fx-background-color: #C9E9FC;*/
+	-fx-background-image: url("../../images/bg4.jpg");
+    -fx-background-repeat:  repeat ; 
+  	-fx-background-position: center ;
+}
+
+.tab-pane .tab-header-area .tab-header-background {
+    -fx-background-color: transparent ;
+}

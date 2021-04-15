@@ -1,0 +1,134 @@
+The 25 Best Board-Game Mobile Apps to Play Right Now
+By Keith Law
+
+Photo: Vulture.
+Our current golden age of tabletop gaming has also led to a similar surge in mobile apps that adapt board games to tablets and phones, with new ones arriving almost every week and some games even premiering in digital form at the same time they show up on store shelves. I’ve tried more than 50 such apps, all of which are based on games you can actually buy in stores; these are the best of the bunch.
+
+Unless otherwise noted, these are all available on iOS and Android, with some on Steam as well. The list does not include iOS apps that stopped working in the June 2017 “app-ocalypse,” when Apple required developers to update their apps for 64-bit support, such as Samurai or Through the Desert; or apps that still work but are no longer available for purchase, like Battleline, Stone Age, or Caylus.
+
+With new apps coming all the time, we’ll update this list regularly to reflect any new titles that merit inclusion here.
+
+25. Yellow & Yangtze (Dire Wolf Digital)
+
+Photo: Dire Wolf Digital
+I wasn’t even aware of this Reiner Knizia game before Dire Wolf announced the app last year. It’s a sort of spiritual successor to his 1997 game Tigris & Euphrates, one of the all-time classics of area control. In both games, you score by growing your “kingdoms” in four different colors, but at game-end each player’s lowest score of those four is compared to the other players’ lowest scores. Where Tigris had players placing square tiles on a map, creating kingdoms of adjacent tiles that go to “war” when they’re connected, Yellow & Yangtze uses hexagonal tiles that allow for more connections between groups. It also introduces a fifth color of kingdoms, gold, that can be used to boost your score in any of the four other areas. Dire Wolf’s apps all look great, with bright colors and snazzy animations, and this is no exception.
+
+24. Puerto Rico (Codito)
+
+Photo: Codito
+One of the all-time great Euro games, Puerto Rico is a high-strategy game with very little randomness or luck involved. You’re building out a colony by planting crops, constructing buildings, shipping goods either for money or points, and hiring colonists represented by … (squinting) little brown tokens. (That’s true in the physical game as well.) It’s a classic “engine builder,” where you set things up in your space to generate stuff each round, mostly trade goods you can ship for points, which is the optimal strategy unless everyone else is doing it, too. Only available on iOS.
+
+23. Brass (Cublo)
+
+Photo: Cublo
+A beautiful rendition of one of designer Martin Wallace’s famed economic games, most of which also involve trains because he really likes trains (and who doesn’t?), Brass is set in the industrial-revolution era in England and asks players to build factories so that they can manufacture and ship cotton, iron, and coal for points — but you have to borrow enough to keep your business going so that eventually you can turn a profit. The original version didn’t have a strong enough AI component, but the developers added a harder option last year.
+
+22. Steam (Acram)
+
+Photo: Acram
+Another Wallace title, this one a little easier to understand than Brass but not as appealing to look at. Steam has players competing to build rail lines on any of various maps — one standard map is New England — to connect cities and towns and then ship various colored cubes across their rail lines. You get money each time a good travels along one of your tracks, regardless of who’s shipping it. There’s almost no randomness or luck involved here, making this a great game if you enjoyed that operations-research class you took in business school.
+
+21. The Castles of Burgundy
+
+Photo: Ravensburger
+One of my favorite complex Eurogames, The Castles of Burgundy gives you a lot of options, and a lot of ways to score points, but it’s a bit of a bear to set up and the original game had some unfortunate color choices on its small hexagonal pieces that made them hard to distinguish. This app version uses graphics from the newest edition, and has solid AI players that can navigate the myriad choices and strategies available to players, only lacking in the spite that actual humans can show (there are some times when blocking an opponent is the right strategy). This is a game I rarely get to the table in my house, so playing on the app is often a good way to get my fix.
+
+20. Tokaido (Funforge)
+
+Photo: Funforge
+Designer Antoine Bauza loves Japanese themes in his games, with gorgeous artwork to match, with the app version of Tokaido bringing the same graphics, while adding some cute animations to make the board feel less static. The real Tōkaidō, or East Sea Road, was a major thoroughfare in Japan during the Edo period, traveled by foot and connecting Kyoto to what is now Tokyo. Players in Tokaido travel along the board, stopping wherever they wish, with each stop allowing them to do something that eventually leads to points — collecting artifacts, donating to the temple, collecting portions of artworks, or buying meals at the inns along the route. Although there are several different ways to rack up points, usually you just want to stop everywhere you can, both to gain the benefits and because you can block another player from stopping there.
+
+19. Terraforming Mars (Asmodee Digital)
+
+Photo: Asmodee Digital
+Terraforming Mars is one of the most popular and best-reviewed complex strategy games of all time, and bringing it to digital had to be a significant undertaking given the difficulty of creating competent AI players for the app. Based on the popular trilogy of Mars novels by Kim Stanley Robinson, Terraforming Mars has players competing to build complex engines of cards that will help generate six different resources they can use to buy and play more cards. Players will also terraform the board, placing greenery and water hex tiles — as well as the occasional city tile — on the planet, further boosting the planet’s temperature, oxygen, and water, driving the game toward the end conditions. There’s a lot going on here, all the better to have the app to handle the accounting and the cleanup for you.
+
+18. That’s Pretty Clever (Brettspielwelt)
+
+Photo: Brettspielwelt
+This is my current favorite solo app, based on a physical game that plays two to four with a solo mode. The app doesn’t offer multiplayer and it’s designed for you to play this solo in one sitting … but it’s super fast and so addictive that you aren’t likely to stop mid-game or to play just once. It’s a dice-roller: You’ll roll your set of six dice 18 times across six rounds, selecting and removing one die after each roll to fill in a spot on your scoresheet, which has five areas matching the colors of five of the dice. (The sixth die, the white, is wild and can be used on any color.) Filling in certain squares unlocks bonuses, including the all-powerful “plus one” ability that lets you select and score an additional die. The goal is to get the highest score you can; anything over 200 is good, and 300 is Hall of Fame material.
+
+17. Patchwork (Digidiced)
+
+Photo: Digidiced
+A clever two-player game from Uwe Rosenberg, usually known for heavier games that involve gathering wood and raising farm animals and take two hours just to set up, Patchwork is a bit like competitive Tetris. Players take oddly shaped fabrics from a rondel that limits choices on each turn, placing them on their nine-by-nine boards and sometimes gaining buttons, the game’s currency, to allow them to buy bigger fabric pieces or gain more choices from the board. The graphics in the app don’t correspond to the physical game’s imagery, though, and are frankly a little too cutesy.
+
+16. Eight-Minute Empire (Acram)
+
+Photo: Acram
+It’s like the title says: This is a map game of area control and takes just a few minutes to play. Everyone starts in the same space on the board with three-foot soldiers and gains a certain number of moves each turn by taking a card that grants goods as well as either movement points, military units, or the right to build a city. Scoring at the end is based on control of continents and collections of goods, with the biggest bonuses coming if you collect a lot of any one good. It’s fast and the AI players are good.
+
+15. Lanterns: The Harvest Festival (Dire Wolf Digital)
+
+Photo: Dire Wolf Digital
+Another game with beautiful artwork and animations, Lanterns is a tile-placement game with a clever scoring twist: Every time you place a square lantern tile, you gain a token of the color facing you … and each opponent gets a token of the color facing him or her. You gain a second token if you matched the edge of the tile you placed to the edge it’s touching on the board. You trade in tokens in sets for points, but the point bonuses for these — one of each of the seven colors, four of a kind, or three pair — decrease over the course of the game. It’s over quick, and since you can’t control your tile draws, your strategy is really turn by turn.
+
+14. Raiders of the North Sea (Dire Wolf Digital)
+
+Photo: Dire Wolf Digital
+Raiders of the North Sea, a worker-placement game from the prolific designer Shem Phillips, is the perfect game for a digital adaptation: It’s a fantastic game with a fair amount of setup and a lot of pieces. In Raiders, players place meeples in the port town at the bottom of the board to gain supplies and hire workers so they can outfit their longships with raiding parties to go pillage the outposts and fortresses across the top two-thirds of the map. The app brings in the outstanding, cartoonish artwork from the physical game as well. Dire Wolf Digital’s next port, the stellar dice-drafting game Sagrada, is already in Early Access on Steam and would make this list if it were fully released right now.
+
+13. Galaxy Trucker (Czech Games)
+
+Photo: Czech Games
+The tabletop game on which this is based involves a mad scramble for parts to trick out your spaceships, a process well-replicated, even when playing against AI players who, in theory, could just cheat and take all the good bits. What truly separates Galaxy Trucker from so many other adaptations is the best narrative campaign on any board-game app. This wasn’t just thrown together — someone wrote it like a short graphic novel you’ll play your way through many, many games over. It’s brilliant and makes the game so much more addictive.
+
+12. Jaipur (Asmodee Digital)
+
+Photo: Asmodee Digital
+My all-time favorite two-player game got a digital version last year with an unexpected twist: a campaign mode that comprises all kinds of variants to the base game’s rules. In Jaipur, each player has a hand of up to seven cards and tries to collect sets of the six goods shown on the cards, each of which has its own value. You can only take cards from the five shown in the “market” on the table. There are also camel cards, which you can use to take multiple cards at once; a popular tactic is to set up a move where you replace all of the goods cards with camels from your stack, so that your opponent has no choice but to take all five camel cards and give you a chance to choose from five fresh cards from the deck. The campaign mode tweaks various rules, like reducing the hand size to five or changing the card values so that they’re all the same.
+
+11. Splendor (Asmodee Digital)
+
+Photo: Asmodee Digital
+The popular, quick-to-learn game Splendor was an instant hit on its release in 2014, and the app version followed soon afterward, finally gaining online play as an option last year. Splendor players collect tokens they can use to buy any of the 12 gem cards on the table, arranged in three rows from cheapest to most expensive. The more costly a card, the more points it’s likely to be worth. Collecting certain combinations of cards — three each of three specific colors, for example — may get you a Noble tile, worth another three points. The first player to 15 points triggers the last round, and then whoever has the most points wins.
+
+10. Evolution (North Star Digital)
+
+Photo: North Star Digital
+The best board-game app of 2019 (which was a banner year for new releases) was over a year in development, and does what the best adaptations do: It makes the original game better. Evolution has players competing to create species and arm them with Trait cards that make them better foragers, or turn them into predators, or give them stronger defenses against other players’ carnivorous species. The physical game moves kind of slowly between turns, but it’s much faster in digital form because the app does the work for you of figuring out which species can “eat” where — and the animations when species do eat are clever.
+
+9. Agricola (Playdek/Asmodee Digital)
+
+Photo: Playdek/Asmodee Digital
+One of the most successful worker-placement games in history and the reason we have since been inundated with games that pretend that farming is fun and easy, Agricola is really about feeding your family: You grow crops, raise animals, bake bread, build out your house, and maybe learn an occupation or two. It’s actually more enjoyable than it sounds because it’s a sort of puzzle of how to balance gaining points with the requirement that every few turns you turn in enough food to feed your family members. The huge decks of cards with occupations and additions called minor improvements gives the game replay value as well. Le Havre, a heavier game that combines elements of Agricola and Caylus, also has an app version from Codito.
+
+8. Pandemic (Asmodee Digital)
+
+Photo: Asmodee Digital
+Pandemic is a cooperative game, so playing it on mobile means pass-and-play or playing it solo and handling all the roles yourself. There are four diseases spreading around the world and you have to find cures while slowing their progress across the map. If eight outbreaks occur, or you run out of cards in the player deck, you lose; if you cure all four before that, you win. You can customize the difficulty level as you’d like, including Heroic and Legendary modes if you enjoy losing. The On the Brink expansion is available as an in-app purchase, adding new player roles and event cards, plus a new challenge. There are also app versions of two similar games from the same designer, Forbidden Island and Forbidden Desert; the latter is especially good as a solo endeavor that remains difficult, but moves faster than Pandemic.
+
+7. Race for the Galaxy (Temple Gates Games)
+
+Photo: Temple Gates Games
+I don’t love the Race for the Galaxy board game because I think the produce or consume x2 strategy is dominant (if you don’t know what that means, don’t worry), but man is this app version a thing to behold. Not only are the AI players good but the developers managed to cram a lot of information onto even the smaller screens of phones, allowing you to zoom in on any card easily enough to read the icons, making opponents’ actions clear, and giving you plenty of chances to undo certain moves if you screw up. On a tablet, it’s just about perfect. And I can confirm that I have beaten AI players using a different strategy by going full military … but it wasn’t easy.
+
+6. Through the Ages (Czech Games)
+
+Photo: Czech Games
+Here’s a game I haven’t played on tabletop because it’s so long and fairly heavy, but the app is stunning, featuring by far the best tutorial I’ve seen. It even has a legitimately funny joke buried within it. Through the Ages is a 4X (explore, expand, exploit, exterminate) style game played out with cards, where you try to build a civilization, complete wonders for points, beat opponents with your military, improve your government, and ensure that your workers don’t riot. There is a lot going on in this game, and too much accounting for my tastes, but the app takes care of that stuff for you, so you can focus just on playing the game itself. It also has built-in warnings if your workers are going to riot or you’re going to lose resources before the next turn. The false 3-D perspective also helps them cram a lot of buildings onto your screen without crowding it. Games against AI players take 20-plus minutes, more than anything else on this list, but there’s very little downtime involved.
+
+5. Istanbul (Acram)
+
+Photo: Acram
+Istanbul was a really thoroughly designed app right out of the box: It has strong AI players and allows you to fully customize the game’s variable board. Istanbul is a route-finding game that manages not to feel like too much of a route-finding game: You move your merchant around the four-by-four board, with each space allowing you to perform some specific function, like collecting goods, selling them for coins, upgrading your caravan, or trading goods or coins for rubies, which is the actual goal of the game. The first player to get five rubies (six, if you’re playing with just two players) wins. It’s clear, moves quickly, and the AI players are impressive, especially with how well they adapt to randomized boards. Acram’s port of Charterstone, a competitive legacy game for up to six players, should be released shortly as well.
+
+4. Small World (Asmodee Digital)
+
+Photo: Asmodee Digital
+Days of Wonder, which is now part of the Asmodee family, put out two of the earliest successful board-game apps with Small World and Ticket to Ride. Both feature outstanding graphics, easy-to-follow play on tablets or phones, and competent AI opponents. They also worked particularly well for pass-and-play, with Small World — later updated and dubbed Small World 2 — including a feature that allows two players to face each other across a table and play on a tablet without having to exchange or rotate it. Small World is an area control map where there just isn’t enough room on the map for all of the players. You pick a race, grab some territories, and then put your race into “decline,” so you can pick a brand-new race and start all over again. It’s bloody good fun for the whole family — and the app takes care of the one small hassle of the physical game, tallying up points each turn.
+
+3. Carcassonne (Coding Monkeys on iOS, Asmodee Digital on Android/Steam)
+
+Photo: Coding Monkeys on iOS, Asmodee Digital on Android/Steam
+Carcassonne was one of my top apps of the last decade because the iOS port, from Coding Monkeys, was the best of breed from the day it was released. Its license for the game expired at the beginning of March, however, and it’s no longer available to purchase; there is currently no iOS port of this game, although I assume one is coming soon. In the meantime, you can play Asmodee Digital’s version on Android devices and Steam. This version offers players an isometric view instead, which gives the tiles some texture, although you can switch to top-down if you prefer that. The iOS app is cleaner to look at, while the Asmodee version offers more animations to give it more of the feel of a video game. There are four AI opponents: a “focused” AI, a builder, an aggressive opponent, and a “conqueror.” There are six in-app purchases available, including what I think is the best expansion for the board game itself, Traders & Builders.
+
+2. Ticket to Ride (Asmodee Digital)
+
+Photo: Asmodee Digital
+This was the original model for how to build a great board-game app, complete with an active player community, and it remains one of the best, thanks to an overhaul a few years ago and regular releases of expansions. The base game is my go-to recommendation for readers who ask for a game that they can play with their kids because the rules are simple, the scoring is easy to understand, and QED train games are awesome. The app’s tutorial is good, the animations and graphics are excellent, and the user interface is intuitive. (You’d be surprised how often board-game apps screw that last part up.) The Ticket to Ride app offers Europe, Switzerland, Nordic countries, England, Germany, Asia, India, and Pennsylvania maps as expansion options, as well as new card sets like the 1910 and 1912 sets for the U.S. There’s also a version for younger players, Ticket to Ride First Journey, as a separate app, which is also quite good.
+
+1. 7 Wonders (Repos Production/Outer Zone Entertainment)
+
+Photo: Repos Production/Outer Zone Entertainment
+The 7 Wonders app appeared in November after years of anticipation, delays, and testing … and it was worth the wait. 7 Wonders itself is one of the best board games we’ve seen because it condenses the city-building theme into a consistent 30-minute playing time. Each player gets a hand of seven cards per round, plays one, and then passes the remaining cards to the next player, who selects one from his or her hand and passes the remainder around … so that everyone plays six cards per round (discarding one), but the cards you get to choose from keep changing as the hands move around the table. You do this three times, playing 18 cards, building a little engine that gives you the resources and coins you’ll need to play more buildings or complete your Wonder. There are lots of ways to score, so part of the game is finding a path to points that your opponents aren’t following. Moves are simultaneous, so solo games fly by on the app, although it can be tough to follow what all opponents are doing, AI or real, if you’re playing against more than three other players. The developer just added the Leaders expansion as a $1.99 in-app purchase. It’s a tremendous game that finally got the app it deserved.

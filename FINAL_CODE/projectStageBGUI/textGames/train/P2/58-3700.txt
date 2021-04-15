@@ -1,0 +1,560 @@
+Microsoft xCloud’s best games: 15 great places to start
+Too bad if you have an Apple device
+
+By Polygon Staff  Oct 16, 2020, 11:55am EDT
+Share this story
+Share this on Facebook (opens in new window)
+Share this on Twitter (opens in new window)
+SHARE
+All sharing options
+Part of Cloud Gaming in 2020
+MicrosoftMicrosoft has added a cloud gaming option, xCloud, for anyone with an Xbox Game Pass Ultimate subscription, allowing players to step away from their Xbox or PC to play a selection of over 150 games streaming to their Android smartphone or tablet. This feature also means that every multiplayer game now has the option for local co-op (as long as the players in the room all have their own subscriptions and Android devices). Sorry, no Apple support for now.
+
+Almost all of the games require a Bluetooth controller, although a custom touch interface has been added to the streaming version of Minecraft Dungeons. You can even get an inexpensive accessory if you want to clip your phone to your controller, creating a sort of mini cloud-based console.
+
+Microsoft has been beefing up Xbox Game Pass Ultimate quite a bit lately, and the added value of cloud gaming is pretty hard to beat, allowing you to play games at home and then pick up right where you left off by streaming them to your Android device on the go.
+
+Like PlayStation Now, an Xbox Game Pass Ultimate membership means you get all of these games included as part of your subscription.
+
+But where should you start? Here are 15 great games to try — available at the time of publish in the xCloud library, which changes over time — all of which can be played via the cloud if you have a compatible Android device and a Game Pass Ultimate subscription.
+
+Let’s dive in, and see what’s good!
+
+HELLBLADE: SENUA’S SACRIFICE
+A character watches a tree burn
+Image: Ninja Theory
+Hellblade: Senua’s Sacrifice uses everything in its arsenal to perpetuate feelings of dread, anxiety and fear: camera perspective, light, sound, visuals, combat. There are no scary monsters, no jump scares, none of the traditional horror fare. Instead, it taps into something infinitely more terrifying: human psychology. And it is wildly successful.
+
+Developer Ninja Theory worked alongside a team of mental health specialists, professors of psychology and people recovering from psychosis to convey their experiences. The depiction of main character Senua’s hallucinations and delusions feel vivid, honest and terrifying. From seeing literal fragments of reality to wandering mazes guided by a grieving ghost, every little thing you do skirts the line between myth and a terrifyingly inescapable reality. Every battle and puzzle ties back into the underlying themes and experiences of psychosis. —Ashley Oh
+
+Read the full review
+
+JOURNEY TO THE SAVAGE PLANET
+a corporate drone with a spacesuit and a pistol stands on an alien planet in Journey to the Savage Planet
+Image: Typhoon Studios/505 Games via Polygon
+My first encounter with an alien life form in Journey to the Savage Planet establishes the game’s tone in no uncertain terms.
+
+I spot a rotund, featherless, and mostly harmless Pufferbird minding its own business in a cave near my crashed spaceship. My ship’s AI helpfully points out that the bird contains resources I need, and the on-screen hint urges me to try a melee attack. I hit the indicated button, and slam the big-eyed creature with an unexpectedly savage backhand. It explodes into a puddle of neon green goo, covering the ground, walls, and my hands with slime.
+
+I do not come in peace, it turns out.
+
+Journey to the Savage Planet drops me onto an uncharted planet, unprepared and uninformed, with the goal of determining if the planet is safe for human habitation or corporate exploitation. It would also be nice, for me, personally, if I’m able to refuel my ship so I can return home. My boss and the ship’s AI don’t seem too concerned with that secondary objective. —Jeffrey Parkin
+
+Read the full review
+
+CARRION
+A human attacks the monster with a flame thrower
+Image: Phobia Game Studios/Devolver Digital via Polygon
+Carrion is a game for anyone who has ever stopped at a mirror to glance at that screaming flesh prison we call a body and thought, “Ugh, I’m a monster.”
+
+A pixelated side-scrolling “reverse horror” game, Carrion puts players in the role of its own anomalous creature: a cartilaginous mass of mouths, teeth, and tendrils that moves like a sentient wad of spaghetti meat possessed by some eldritch horror. It looks like it should be the end boss of this sort of adventure, not the hero of it.
+
+The plot itself is fairly straightforward: You’re an extraterrestrial entity that was discovered by agents of a shadowy biotech corporation and subjected to a battery of invasive and humiliating experiments.
+
+But one day, you break free of the containment chamber and immediately begin to rip and tear through everyone and everything in your single-minded pursuit of escape. Imagine, if possible, a version of Ape Out filtered through the body horror of John Carpenter’s The Thing. —Toussaint Egan
+
+Read the full review
+
+DESCENDERS
+
+The game is centered around the randomization of each run down the mountain. Not only are individual courses randomized by level of steepness, curves and stunts, but the routes available as you progress through a world are similarly unique to each run. Complete an entire run in a world without bailing out too many times, and face a boss level — a steep and challenging course ending in a gargantuan mega-jump.
+
+Levels in each run vary due to their procedurally generated nature, but all contain a few staple obstacles depending on the world that they’re set in. In the Highlands, grassy fields are interspersed with quarter pipes and wooden ramps, and even the occasional castle tower jumping challenge. The Forest, the second world, adds jumps through firewatch towers and twisted bridges over rocky pits. Four worlds are available in total — the aforementioned Highlands and Forest, and the latter-game Canyon and Peaks.
+
+Each level’s path has multiple checkpoints that, if passed through, will act as the respawn location after bailouts. These checkpoints are completely optional, though, and breaking from the path is always a possibility. However, going your own way might lead to missing out on some opportunities to score Rep points by pulling off a trick on a ramp, or nearly missing an obstacle that would otherwise bail you out, gaining you some ‘Near Miss’ Rep as a reward. —Dante Douglas
+
+Read the full review
+
+HYPNOSPACE OUTLAW
+“Tall Green” stamp in Hypnospace Outlaw
+Image: Tendershoot, Michael Lasch, ThatWhichIs Media/No More Robots
+Hypnospace Outlaw is a flawless piece of historical fiction, a savage work of contemporary satire, and a genuinely tricky puzzle game.
+
+Set entirely in a late ’90s Geocities-like online hub called Hypnospace, it tasks the player with working as a community enforcer, administering a code of behavior across its user-created pages. These ugly websites are populated by a diverse cast of internet archetypes extant in the ’90s, as now. My job is to take down copyright infringers, virus makers, hackers, scammers, and trolls.
+
+I interact with them in ways similar to mechanics in other politically charged games, like Papers, Please and Orwell, gathering information through observation. I look through their websites and I decide if they are breaking the rules. I can delete stuff from their pages, and I can report them for greater punishment, such as a ban.
+
+At first, it’s a simple case of trawling a few dozen websites and handing down infringement notices. But I’m soon required to take a more investigative approach, ferreting out passwords, connections, and relationships. My tools are basic: trial and error, lateral thinking, guesswork. —Colin Campbell
+
+Read the full review
+
+MINECRAFT: DUNGEONS
+Minecraft Dungeons beta tips and tricks
+Image: Mojang/Xbox Game Studios via Polygon
+I did not expect a Minecraft game to teach my children the basics of dungeon-crawlers or loot-focused hack-and-slash games like Diablo, but here we are. Minecraft Dungeons is a simplified take on the top-down brawler, but it doesn’t lose any of the genre’s fun as it boils away all the unnecessary parts that serve to slow down more complex games.
+
+Minecraft Dungeons isn’t simple, exactly — it’s just easy to learn and play. But that’s always been the secret to the rare, enjoyable family-friendly games from huge studios: It’s not a matter of making things easy, but ensuring that they are elegant. And this game is, above everything else, elegant. Microsoft is branching out with the Minecraft name, but doing it in such a way that brings fans deeper into the world of gaming, while effortlessly teaching some rather complicated ideas about tactics and strategy. —Ben Kuchera
+
+Read the full review
+
+ORI AND THE WILL OF THE WISPS
+Ori surrounded by friendly creatures in Ori and the Will of the Wisps
+Image: Moon Studios/Xbox Game Studios
+Ori and the Will of the Wisps invites you to dance inside a beautiful world. There is combat, sure, and there are threats, but the dance, and the beauty of your surroundings, are always the focus.
+
+Moon Studios’ first game, Ori and the Blind Forest, was notable for the same reason. Here was a striking 2D platformer that staked out the visual middle ground between a Pixar short and an oversaturated photograph of a fantastical forest. Will of the Wisps is even more sumptuous and varied in its aesthetic, filled with delightful details that make so many frames look more like paintings than a video game. Screenshots and trailers don’t do it justice. —Andrew King
+
+Read the full review
+
+SLAY THE SPIRE
+A card delivers a lightning attack in Slay the Spire
+Image: Mega Crit Games
+At the start of each playthrough, all I have is a generic deck, filled with basic attack cards, defense cards, and some skills. But every time I take down a foe, I get the option to add one of three new cards to my deck, drawn from the large pool of possible cards available to each character. These cards can unlock new, specific skills, and allow me to build diverse styles of decks using the generic cards as a foundation.
+
+I thought I had a grasp of all of this at first; I’m used to playing both card games and roguelikes, after all. But even after a few hours, I was constantly losing and not making much progress. This isn’t uncommon in roguelites, and while I was having fun, I still felt like I must be missing something, since I was struggling so much. I assumed each class had a fairly straightforward approach to deck-building: The soldierlike Ironclad is a high-damage fighter, the Silent is a poison-chucking rogue, and the Defect is a robot that casts magical orbs. But after failing repeatedly, I knew I needed to take a different approach.
+
+One of the first mistakes I made was adding too many cards to my deck. Since there’s no limit, I just kept adding cards that seemed interesting. For instance, the Defect can cast four different types of orbs to power itself up. In my naïveté, I kept grabbing cards to add all four types to my deck, unaware that they really don’t mix well at all.
+
+As I got further into the game, I was eager to make use of all the new cards I earned along the way. It turns out that the more cards I have, the less likely I am to draw my more essential cards. This is deck-building 101, but it’s easy for me to fall into this bad habit when I first start playing games like this. After poring over some guides from the game’s early access stage, I picked up a few new tactics. —Jeff Ramos
+
+Read the full review
+
+STREETS OF RAGE 4
+colorful action from the throwback beat-em-up Streets of Rage 4
+Image: Lizardcube, Dotemu, Guard Crush Games/Dotemu
+If you played the original Streets of Rage titles, good news: Streets of Rage 4 is a lot more Streets of Rage. If you’re unfamiliar with the series, allow me to explain.
+
+You pick a fighter from a collection of brawlers with unique stats. Some are fast but deal light damage, like the guitar-wielding teen Cherry. Some are slow but deliver punches with the concussive impact of a sledgehammer, like the cybernetically enhanced Floyd Iraia. Series stalwarts Axel and Blaze are playable from the start, and provide balanced combat options, while other Streets of Rage characters, including retro-styled 16-bit fighters in all their pixelated glory, can be unlocked as you collect experience points and progress through the campaign.
+
+The combat has been improved a bit from the 16-bit era, but this is still a game in which you’ll spend most of the time bashing the same attack button, occasionally tapping the jump button to evade an attack, dealing a special move that can cost some of your own life, or unleashing a limited ultra move that slaughters any weak enemies standing in its way. There’s no button to guard yourself from attacks, so a good defense is moving up and down the screen to avoid getting kicked in the throat, while conserving health power-ups for the moment your health bar is nearly (but not fully!) depleted.
+
+Some enemies require a little bit more strategy than others. Kickboxers block attacks, so you must grapple them — accomplished by literally walking into them. Endgame minibosses have Punch-Out!!-style tells, cueing you to move out of the way or rush in with an uppercut to the jaw. The final boss fight is hilariously complex and annoyingly difficult, designed like a classic arcade boss meant to fleece you out of every quarter in your pocket. But most enemies are little more than punching bags with knives taped to their side. —Chris Plante
+
+Read the full review
+
+UNTITLED GOOSE GAME
+A farmer chasing a goose holding a radio in Untitled Goose Game
+Image: House House
+The game has a knowing charm that benefits from its roughness. Yes, there’s not a lot to do, but that is, in some way, the point. Plenty of other games are burdened by busywork. And yeah, this one’s a little busted and repetitive at times, but it’s also the first game I can remember that lets me solve problems (or cause them) as a goose. Not an assassin or a spy or a killer. A goose.
+
+Which is why I, gymnastics-style, grade on a degree of difficulty. A violent stealth game starring a scruffy generic soldier-type? That’s on the bottom of the scale. For decades, game makers have worked tirelessly to uncover every way to make killing fun.
+
+But there’s little precedence for Untitled Goose Game. In each stage, I can sense the creators stretching, with great effort, to find new, fun things that don’t fall on old habits. The magic, when it really materializes, is punctuating a perfectly executed stealth maneuver with a quack. —Chris Plante
+
+Read the full review
+
+VOID BASTARDS
+Stealthy enemies in Void Bastards
+Image: Blue Manchu/Humble Bundle
+Void Bastards is a first-person roguelike where you’re forced to explore dozens of randomly generated space stations in search of, well, mostly bullshit. The game is pretty open about this. At one point you need to find a new HR computer because the last one exploded when you turned it on. The doodads you collect to enable your escape from the galaxy aren’t really the point, though, and just serve to keep things light and breezy, even while you’re starving to death.
+
+Void Bastards’ biggest asset is its randomness. Unlike the set-in-stone levels of BioShock’s underwater metropolis, Void Bastards’ boundless variety of miniature space stations have their own layouts and unique variables. These require some cleverness to overcome or use to their greatest advantage.
+
+One of the earliest stations I encounter is filled with pools of radiation, requiring that I sprint and jump to avoid taking long-term damage. Another has lost power, forcing me to maneuver through darkened hallways to reach the power switch and bring the station back online. This, of course, activates an array of security measures, and I’m instantly beset by unhappy robots.
+
+But it’s not all bad; the randomness can sometimes be a boon. Before docking into one station, I am alerted that there will be friends onboard. One of the potential station variables causes a single enemy type to be friendly to the player, and it just so happens that this station has only one enemy type on board, instead of the usual one or two to contend with. In this case, it’s a small alien monster called a Juve (as in juvenile), who moves fast and can usually swarm me in seconds. But on this station, all the Juves are allies, following me around like mice behind the Pied Piper. It’s glorious. —Russ Frushtick
+
+Read the full review
+
+THE OUTER WORLDS
+The Outer Worlds - a figure in a spacesuit holds up a pistol with a vessel in the background
+Image: Obsidian Entertainment/Private Division
+I knew I’d love The Outer Worlds as soon as I stumbled into a cave and met a bleeding, dying gentleman.
+
+I offered to help, but he hesitated. Was I using Spacer’s Choice health care products? His contract clearly states that he can’t use a competing product. This was my first real introduction to the weird, corporate dystopia of the Halcyon system, where giant, sprawling conglomerates have the final word on just about everything, and everyone is simply trying to get by.
+
+But maybe I can help with this whole mess, if I decide to try. The game begins with Phineas Welles — a guy who’s a little like a nicer Rick, sans Morty — waking me from cryosleep aboard the colonist vessel the Hope. The Hope was lost in space, I’ve been frozen for 70 years, and the entire system went straight to hell while I was on ice.
+
+So I’m emerging into a space-capitalist nightmare, and Welles is asking me for help. I’ve just got to murder some robots and raiders, meet the locals down on some of the nearby planets, and try to figure out whether I’m down with Welles’ vision of eating the rich. —Cass Marshall
+
+Read the full review
+
+SEA SALT
+
+I am a dark god; my tendrils writhe beneath the waves, and altars to my magnificence are spread across the land. I seek worship, but, more importantly, I need flesh.
+
+When the time comes for my devoted archbishop to sacrifice himself, he refuses and flees behind the paltry defense of the city walls. He has mistaken my call for a request, and now I must claim him — and anyone who stands in my path. I will feast.
+
+I’m playing Sea Salt, a game from two-person studio Y/CJ/Y. It’s best summarized as Hotline Miami, except I’m an angry sea god instead of a nihilist in a mask. I also gather and manage minions in a way that’s a little like Pikmin, but for goths. I have to navigate through levels seen through a top-down camera, and use my 2D pixel-art armies to visit unfathomable violence on the enemies and obstacles in my way.
+
+I’m the dark god Dagon, a glowing rune that controls the actual forces that I use to clean the map; my swarms of minions. If you’re like me, your forces are probably comprised of 90% murder crabs. Other people might choose an army of cultists, or little Zergling-type fellows, or acid worms. I mix, match, and experiment with the composition of my unholy horde as I tackle new levels and encounter new challenges. —Cass Marshall
+
+Read the full review
+
+GEARS OF WAR 5
+Kait aiming a pistol at the camera in Gears 5
+Image: The Coalition/Xbox Game Studios
+Gears 5’s campaign wants to be many things.
+
+Some of it is designed for sipping, mulling, and savoring, like the hours I spent slowly and deliberately exploring large, open-world areas, discovering secrets and learning about the Gears of War universe along the way.
+
+Other parts are as rumbly and explodey as an Avengers movie, like every time I shot my way yard by yard through small corridors, big rooms, and enormous factories, peeking out from cover to reduce monsters into meaty roast-sized pieces.
+
+And sometimes it’s a bit of both, like when I discover a credible stealth sequence and botch it, and the cerebral calm transforms into a rumbling firefight.
+
+These shifts in tone and pacing shouldn’t work, and yet they do. This is what makes Gears 5 so remarkable. The Coalition seems to have set out to redefine what a Gears campaign could be, and the final product shipped with a lot of varied ideas and set-pieces, many of which sound anathema to Gears of War when described in print.
+
+And yet Gears 5 manages to cohere into something captivating, credible, and incredibly well-polished. —Dave Tach
+
+Read the full review
+
+MIDDLE EARTH: SHADOW OF WAR
+
+When Middle-earth: Shadow of Mordor launched in 2014, it was a surprise, if not a revelation. Though it appeared in marketing materials and press events to be a tonally incoherent cash-in on a beloved intellectual property, Shadow of Mordor introduced one of the most astounding design innovations in the past decade of game development: the Nemesis System.
+
+Developer Monolith Productions has, of course, returned to the this brilliant system in Shadow of War. The armies of orcs that would normally be nameless, personality-stripped bad guys are transformed. Enemy captains and warchiefs are imbued with entrancing and often hilarious character. Stories emerge procedurally rather than through cutscenes; each player experiences their own tale about the one Uruk they just can’t keep down, or the enemy whose hand they cut off only to have him return with a hook for a hand.
+
+The Nemesis System was something delightful and totally new in 2014, and it was enough to earn the game a spot on our game of the year list. Now, it has expanded it to include even more orcs of a wider variety of personality types, and more interactions and options for building your personal army. In fact, Monolith focuses in so much on this aspect of the game that it loses the plot in other parts — like, well, the plot. —Philip Kollar and Chris Plante 
+
+Google Stadia’s best games: 11 great places to start
+Google’s streaming service holds some gems
+
+By Polygon Staff  Oct 16, 2020, 12:27pm EDT
+Share this story
+Share this on Facebook (opens in new window)
+Share this on Twitter (opens in new window)
+SHARE
+All sharing options
+Part of Cloud Gaming in 2020
+Google’sGoogle’s cloud gaming service, Stadia, suffered from a rough launch. Things haven’t improved much since then. 
+
+Beyond the basic features still missing from the service, and how few of the games on Stadia offer full cross-play across multiple platforms, the game library itself is incredibly limited, at least for now. It still barely feels like a real platform, much less one on which you’d want to spend a lot of time (or money).
+
+Stadia’s biggest problem is the one that’s going to be the hardest to solve: Both Microsoft and Sony are offering cloud gaming solutions that are an added value to already successful and thriving communities. Microsoft is aggressively moving to a hardware-agnostic, subscription-based service for its Xbox platform, one in which playing on mobile devices and streaming your games from the cloud will be but one way to play. Sony’s PlayStation Now service is in the same boat, offering players another option in how they might want to play PlayStation-exclusive games.
+
+Google Stadia controller being held
+Google Stadia’s official controller Photo: Chris Plante/Polygon
+Stadia doesn’t have that history or existing player base, nor is it offering many exclusives, and you can only play the games purchased on Stadia over the internet. There is no way to locally play the games you own, meaning that each and every purchase may go away if Google discontinues the service. As a bet, it’s the most dangerous of the cloud-gaming services, if you’re worried about potentially losing access to your games.
+
+RELATED
+
+Google Stadia review: cloud gaming brought down to earth
+To put it simply, every console manufacturer has the skills and technology necessary to add cloud gaming functionality to their platform, but Google can’t easily create dedicated hardware or offer more games to its service without a huge investment. That puts Google, for once, in the underdog position when it comes to cloud-based games.
+
+Google Stadia has rolled out some experimental features for some of its games that other cloud gaming services don’t offer, like Stream Connect (which can stream one player’s game into another’s), Crowd Choice (which lets livestream viewers vote on what happens next in a game), and the beta of State Share (which allows users to share direct links into game worlds they’ve created).
+
+You can sign up for Stadia for free if you have a Gmail address and live in one of these 14 countries, so you can test out whether it’s a good fit for you and your internet connection. When you sign up, you can also choose to get a free month of Stadia Pro. Just be sure to cancel before the 30 days are up if you’re unhappy with the experience.
+
+Stadia Pro provides access to more than two dozen games currently, as well as access to 4K and HDR streaming and discounts on other games. Stadia games that aren’t offered as part of Stadia Pro need to be purchased separately, just as if you’d bought a game console. The main difference is that Stadia doesn’t need a console, nor much hardware power outside of a fast internet connection. Whether that’s enough reason to tolerate the limitations of the service is up to you.
+
+If you do decide to jump into the world of Stadia, here are the games we suggest.
+
+ASSASSIN’S CREED ODYSSEY
+Assassin’s Creed Odyssey
+Ubisoft Quebec/Ubisoft via Polygon
+This is a game worth sharing. Its geography is a beautiful montage of sunbaked islands, war-ravaged towns and towering ancient cities. From the brand-spanking-new Parthenon to the tiniest butterfly, Odyssey provides a place of intense visual pleasure.
+
+Respect has been paid to the historical Greece at this time, to its politics, culture, mythology, sexual norms, architecture, religion, humor, philosophy, art, and morality.
+
+Most of all, the people in this game are engaging and amusing. I loved hanging out at a symposium, debating philosophy with Socrates and flirting with Alcibiades. I loved making friends with my absurdly religious ship’s captain, with a no-nonsense pirate, with a devoted child.
+
+This is why, for all its faults, Assassin’s Creed Odyssey is one of the best explorable game worlds yet made. It’s ambitious enough to recreate ancient Greece as a detailed panorama, and to populate it with lovable, faulty, funny human beings. Like great historical fiction, it feels like a journey into a thrilling, alien and dangerous adventure. —Colin Campbell
+
+Read our full review
+
+SUPER BOMBERMAN R ONLINE
+
+There’s very little risk here, since the game is currently free for Stadia Pro subscribers, but the good news is that the simple pleasures of bombing your friends and family hasn’t been lost.
+
+The game is modeled more after battle royale titles in which you have to survive your board, and then move onto new boards, with new enemies to fight against, as older battlegrounds are dropped in an approximation of the ever-tightening “storm” of other battle royale games. It shouldn’t work as well as it does, making Super Bomberman R Online a Stadia exclusive that’s worth signing up for the free month to at least try. —Ben Kuchera
+
+WEST OF LOATHING
+This screenshot from West of Loathing features seven stick figure characters standing in front of two doors labeled “Barracks” and “Mess Hall.” A table is set up in front of several of the figures, covered in small figurines. One of the stick figures hold
+Asymmetric
+West of Loathing is a great Western game, and it isn’t even in color. It’s evocative of all the ambitions and moments that make a cowboy story worthwhile and engaging, while at the same time gently mocking the entire affair from start to finish.
+
+But for me, the most significant success was at the end. Once you help build the railroad into Frisco, you can go watch “The Final Cutscene” playing at a movie theater. The epilogue wasn’t even finished yet in the review build of the game (unless that was a joke, too), but I got to see the threads of plot I’d been tugging on — even some truly obscure and flippant ones — get all tied up neatly. I saw my work upon this weird West, and I felt sincerely bittersweet to mosey on from a world I hadn’t quite realized I had been becoming more and more affectionate for. —Noah Caldwell-Gervais
+
+Read our full review
+
+DOOM (2016)
+
+Doom, id Software’s 2016 reboot of the shooter series, is a modern update to the classic Doom formula that doesn’t lose sight of the speed and tone of the originals while still adding new ideas. And it looks great doing it.
+
+Doom is a leaner and more focused experience than Doom Eternal, which is over-stuffed with too many new systems and lore that seems unnecessary, which is why we think Doom remains one of the best first-person shooters to pick up on Stadia. —Ben Kuchera
+
+Read our original review
+
+RAGE 2
+A purple mohawked character faces a monster truck in the wasteland of Rage 2.
+Avalanche Software, id Software/Bethesda Softworks
+Rage 2 is one of the video gamiest video games I’ve ever played.
+
+The game’s designers didn’t just borrow ideas from a couple iconic first-person shooters; They cribbed from the genre’s entire history. Good games, bad games, nearly forgotten ones. Remember that weapon from Dark Sector? Or that monster from Gears of War? Or that setting from Borderlands? Or that color palette from Sunset Overdrive?
+
+And yet Rage 2 is so satisfying in action, so totally shameless, that I find it hard to put down. I could list the game’s inadequacies and describe its bizarre menus or upgrade structure all day long, but the more I talk about the game the more I find myself preferring to play it instead.
+
+Rage 2 exists as a collection of unoriginal, but well-executed, ideas held together by a structure that can just barely be described as an open world. —Ben Kuchera
+
+Read our full review
+
+RED DEAD REDEMPTION 2
+Red Dead Redemption 2 - Arthur Morgan and Bill Williamson firing guns
+Image: Rockstar Games
+Red Dead Redemption 2 has a central storyline, plotted on a map of the game’s world in yellow dots. But the world is brimming with additional paths Arthur can choose to take along the way, themselves branching in various directions. Most are unmarked, and their events unfold in medias res. Similar moments appeared in the original Red Dead Redemption, but they’re dwarfed by the depth, variety and interactivity happening here. While searching for a former member of Calloway’s gang, I come across a man who is being attacked by wolves. I scare the animals away with a shot in the air and offer the man medicine — medicine that, I realize as I offer it, can hardly treat his mangled leg. He bleeds out, cursing me.
+
+Around the 20-hour mark — roughly one-third into the game — the story sets a stride, and I begin to establish my own rhythm alongside it. Days pass slowly in the game’s universe, and I spend most of them doing a mix of hunting for pelts and meat that will help me upgrade my clothes and feed the camp; running a couple of side missions to get to know the crew; and maybe completing a story mission to move everything else along, or perhaps taking a trip to town to gamble, collect a bounty poster or just see what will happen on the main drag. I have my guns and a lasso, items to sell, money to buy whatever I need, and — new to the series — the option to chat with anyone.
+
+Rockstar has the hubris to create not just another open world paired with a laundry list of activities, but also a simulation that binds it together. When it works, it’s astonishing, affecting and unintentionally funny in the way real life can be. As I try to defuse a robbery, I notice my horse taking a massive and seemingly endless dump just behind me. A bunch of code is directing the hundreds of animals and people around this world, but where most video game characters and creatures feel as if they’re repeating the same path into oblivion, this world does just enough to feel like a live space — at least until you push against the edges. —Chris Plante
+
+Read our full review
+
+SPIRITFARER
+
+Spiritfarer is based on classical Greek mythology: the story of the river Styx, a waterway that’s said to be a pathway between Earth and the afterlife. In the myth, spirits are transported by Charon, the ferryman, through the river and into the underworld, paying passage with a token. Spiritfarer follows this story closely, as Stella and her cat Daffodil take over from Charon. Stella is the spiritfarer, and she captains a large boat to ease the dead into whatever comes next. The act of dying, which we often see in video games, is less important than what happens after death in this story.
+
+The game begins as Charon retires, with Stella just beginning in the role. She travels between islands in the Spiritfarer world, meeting spirits that are stuck and need help in moving on. Most of the characters on the ship, picked up throughout the game’s watercolor world, are Stella’s friends and family. Some are not, but each has something they need — something Stella must provide. Her large, but initially simple, vessel is her way of doing so.
+
+The ship gets larger and more complex with each passenger that comes aboard, whether a garden to grow vegetables for a vegetarian spirit has been added, or the kitchen is upgraded to create elaborate meals for picky passengers. These additions, which include orchards and a massive crusher for grinding things to dust, stack precariously on top of one another, a slow game of Tetris, as shapes get more complex and harder to fit in the constrained space of the ship. —Nicole Carpenter
+
+Read the full review
+
+THE DIVISION 2
+Faye Lau, a wounded Division commander wearing an eyepatch, instructs a Division agent by pointing at a map of lower Manhattan
+Image: Massive Entertainment/Ubisoft
+Just hanging out in the world of The Division 2 is great fun, even if the setting can be grisly. My friends and I decide to tackle a story mission, but find out that civilians are being executed nearby, so we dive in to help. There are always control points to take over or side missions to attempt, and I never know when we’ll run into random enemies to fight. I don’t really need a plan about how to play The Division 2 before I start a session with other people, because we always sort of just find stuff to do. And there is a lot of stuff to do, complementing the main story and its impressive set-pieces and pitched battles.
+
+The downside to all this is that The Division 2 is a very hard game to play solo. The intelligence of the enemies, combined with the numbers of them that the game throws at me, makes playing with someone else all but mandatory. The community seems to understand this, and is made up of overwhelmingly helpful, positive folks, at least in my experience. Everyone wants to help, because they know that they will soon also need help.
+
+It’s a nice counterpoint to the idea of everyone turning on each other when things go bad, as portrayed in the game. In real life, when things get hairy in The Division 2, the players come together. And the game’s difficulty system manages differences between players well, buffing underpowered players while they’re playing with friends or strangers who are at a much higher level. —Owen Good
+
+Read our original review
+
+Update (October 19): The Division 2 is among the Google Stadia games that do offer cross-play, specifically with other PC players.
+
+LITTLE NIGHTMARES
+
+Little Nightmares is the creation of the Swedish Tarsier Studios, which previously worked on the far cuter and cuddlier LittleBigPlanet series. For all that Little Nightmares is unquestionably a horror game, there is something a bit precious about it; like Limbo and Inside, it’s a game about someone small and helpless working their way through a dangerous and frightening world.
+
+But Little Nightmares is a few shades brighter, with hints of dark humor weaving through genuinely disturbing moments. While I found myself inevitably frustrated as a tiny thing in a world of dangers who died a lot, that irritation was balanced out by how the gameplay kept shifting so I never quite died the same way twice. Little Nightmares is a balancing act: between light and darkness, sound and silence, annoyance and satisfaction.
+
+And, most importantly, it’s creepy. It’s very creepy. —Whitney Reynolds
+
+Read our full review
+
+MARVEL’S AVENGERS
+Ms. Marvel slams an enemy with a huge fist in Marvel’s Avengers
+Image: Crystal Dynamics/Square Enix
+Marvel’s Avengers works well as a flashy single-player action-adventure if that’s all you’re looking for, particularly if you’re already a fan of Ms. Marvel, and I can see value in picking it up for that alone. I’m a bit skeptical of the live service aspect’s ability to keep me grinding for loot once I hit the level cap, or finish the story-themed post-game missions, but now I’m over that initial hurdle, it is kind of fun to bash waves of enemies with friends.
+
+On a good day, Marvel’s Avengers is a multiplayer Marvel-themed Dynasty Warriors game, and if you’re in the right mood, that’s a decent way to spend some hours, and we don’t know where the team will take it from here. On a great day, it’s a strong single-player outing for one of my favorite underappreciated superheroes.
+
+Whichever of the two you’re hoping for, there’s fun to be found here, if you set your expectations right. While the multiplayer may not have come out the gate swinging, there’s room for it to level grind a little over the coming weeks, and hopefully become more impressive at some point down the line. —Laura Dale
+
+Read the full review
+
+SUPERHOT: MIND CONTROL DELETE
+A red enemy and an enemy with a white body and red head aim off-camera
+Image: Superhot Team
+Superhot: Mind Control Delete is an uncomfortable release in some ways, having been born out of what was supposed to be DLC for the first game, given away to anyone who already owned the original game on PC, and currently being offered as a standalone game or as a bundle with one or both of the other Superhot games at a deep discount. If I were put in charge of the game’s pricing, I would likely quit and try to find an easier job.
+
+Still, being able to stop time by standing still remains fun, and now there are so many more changing conditions that force me to adapt my strategy from one moment to the next, allowing the game to keep my attention even when the levels begin to feel familiar. Getting a lucky choice of upgrades near the end of a run is always a thrill.
+
+I’m not sure what comes next, or if the Superhot team has squeezed the last drop of blood from the franchise, but Mind Control Delete is a fascinating remix of the concepts that made the first two games so influential. —Ben Kuchera
+
+The best space board games of 2020
+By Kasandra Brabaw 2 days ago
+
+A gift guide for space fans who love game nights
+
+ 
+ 
+ 
+ 
+ 
+Terraforming Mars is a captivating contest to be the first to terraform the Red Planet.
+(Image: © Amazon)
+With the holidays on the horizon, it's time to start shopping. For those loved ones in your life who love both space and game nights, Space.com has you covered. The Space.com staff (most of whom are also game lovers!) has kept their eyes peeled for the best space-related board games. 
+
+Some of the games in this guide take a cosmic twist on classic games, like Monopoly and Trouble, and some are brand new space adventures (one that involves butts). 
+
+Check out our space games gift guide below. And for more out-of-this-world gift ideas, check out our other buying guides:
+
+Space Gifts 2020: The best gifts in the universe
+Best telescopes for kids: 2020 guide
+The best space gifts for kids
+The best science toys for kids
+Terraforming Mars and expansions
+Terraforming Mars box art
+
+(Image credit: Stronghold Games / Fair Dealing)
+
+
+Terraforming Mars: $69.95 $41.99 on Target
+It's smart, challenging and beautifully crafted and now you can get the Terraforming Mars base game with a huge 40% discount, saving you $27.96 on the usual price.VIEW DEAL
+
+We can't live on Mars yet, but you can try and make the Red Planet a New Earth in the amazing Terraforming Mars board game from Stronghold Games. At $41.99 on Target, the game is a whopping 40% off its normal $70 price, which is a great deal for even the stingiest space agencies.
+
+Terraforming Mars challenges two to four players to transform the Red Planet in a game that's at once cooperative and competitive. The first to get Mars past the tipping point of habitability with their megacorporation wins the 24th century. You'll need to raise the planet's temperature, make some air, build cities and oceans while managing your resources. 
+
+
+
+Terraforming Mars: Venus Next: $29.95 $23.05 on Amazon Venus is a deadly world, but one full of potential. Can your corporation succeed in building huge flying cities and introducing life in an inhospitable environment? 
+
+Venus Next adds a side game board as well as new tiles, tokens and Venus cards to the deck.VIEW DEAL
+
+
+
+Terraforming Mars: The Colonies: $29.95 $25.39 on Amazon
+The pursuit of resources has expanded to all corners of the solar system. Help your corporation colonies the clouds of Jupiter and trade with faraway moons in this expansion. 
+
+Colonies adds Colony tiles and includes new cards and corporations.VIEW DEAL
+
+
+
+Terraforming Mars: Turmoil: $34.95 $29.74 on Amazon
+All is not well on Mars. This expansion lets you struggle for control of the transforming Council and influencing the politics that have developed. 
+
+Turmoil includes new corporations, projects, and new global events cards that can throw anything from dust storms to uprisings at the players.VIEW DEAL
+
+And if Mars is not enough, several expansions are on sale for Black Friday, too. In Venus Next available from Amazon, you'll match wits with competitors to make Venus the next home for humanity. It's on sale for about $23, down from $40. Terraforming Mars: The Colonies (on sale for $25.39 on Amazon) takes aim at the outer solar system, while the expansion Terraforming Mars: Turmoil (on sale for $29.74 on Amazon) returns to the Red Planet, where political tensions, civil uprisings and more make Martian life a challenge!
+
+Star Trek Catan
+Star Trek Catan
+
+(Image credit: Flat River Group)
+
+
+Star Trek Catan: $65 $50.15 at Amazon
+The final frontier gets the Catan treatment, as players set out to settle strange new worlds beyond Federation territory. Including original series Enterprise characters on playable cards, right now you can begin your own Star Trek adventure with 23% off.
+VIEW DEAL
+
+Catan may be an enthralling settlement strategy game, but if you want to reach the final frontier, you need to go Star Trek. And right now, the game is 23% off at Amazon, where it's available for just over $50 (down from $65). 
+
+This incarnation of the popular Catan franchise send you out across the many worlds of the Federation to seek out (and build) new civilizations. You can build starbases, outposts and use starships to establish vital trade and supply routes to keep your footholds on the galaxy stocked with gear. 
+
+Just watch out for Klingons as you try to go bodly where no one has gone before.
+
+Space-opoly
+Space-opoly
+
+(Image credit: Late for the Sky)
+
+
+Space-opoly: $24.99 $20.99 at Amazon
+
+Save 16% on Space-opoly, which takes a cosmic twist on the classic Monopoly. Each player picks a spaceship to travel the universe and stake their claim on the planets in our solar system. VIEW DEAL
+
+Space-opoly takes on the classic Monopoly format and puts it in space. Instead of racing around buying up property, you’ll be rocketing around the galaxy, buying up planets and collecting stars and trading them in for orbs. Of course, traveling through space can be dangerous. You’ll encounter obstacles like a failed launch or a leak in your spacesuit. 
+
+Star Wars: X-Wing - The Force Awakens
+Star Wars X-Wing The Force Awakens
+
+(Image credit: Amazon)
+
+
+Star Wars: X-Wing - The Force Awakens: $39.99 $27.11 at Amazon
+
+Get 30% off the classic "Star Wars: X-Wing - The Force Awakens" dogfighting game ffor two players. It allows you to engage in fast and deadly combat between Starfighters, an X-wing or TIE fighters.VIEW DEAL
+
+Fly, or fly not with "Star Wars: X-Wing - The Force Awakens", which is streaking out of stock fast at Amazon at 32% off. This dogfighting game will pit your skill against different fighters from the "Star Wars" universe. Templates and maneuvering styles make your ship-flying as easy as using the Force. You can dive into your Resistance squad-building with strategy-focused expansions, too.
+
+Battleship Outer Space
+Battleship Outer Space
+
+(Image credit: Hasbro)
+
+
+Battleship Outer Space | $19.99 at Target
+Create your very own Space Force and battle in three dimensions in this cosmic version of the classic sea battle game.VIEW DEAL
+
+This game takes the classic Battleship out of the water and into the cosmos. Instead of trying to sink ships, you'll be trying to vaporize spaceships. And while the old game was 2D, this game is in 3D. Opponents will have to search for enemy spaceships in three coordinates: row, column, and sector. The game spans three vertical sectors, with five spaceships hiding out for each team. Each fleet includes the same five types of spaceships: the Dueler, Tricorn Fighter, Celestial Crawler, Rocket Raider, and the mighty Quadron. 
+
+To make a hit, a player calls out two of the three coordinates (the sector and either the row or column). If an enemy spaceship occupies any part of that space, it gets hit. Once an opponent has found every part of the ship, it's "vaporized" and out of play. 
+
+With a little more complexity and a modern space theme, Battleship Outer Space is a fun time for the whole family. 
+
+Ages 7+
+
+  
+
+Monopoly Space 
+Monopoly Space
+
+(Image credit: Hasbro)
+
+
+Monopoly Space | $19.99 at Target
+Collect resources and buy up the solar system in this space settlement version of Hasbro's classic board game.VIEW DEAL
+
+This isn't the Monopoly you remember as a kid. Instead of racing around collecting properties like Boardwalk and Park Place, you'll be racing around collecting bits of the planets in our solar system and their moons. Monopoly Space is a race to own the universe. 
+
+The pieces are astronauts, rovers, spaceships, and satellites. Of course, the game's most classic spaces — passing Go, going to jail, chance, and community chests, are all the same. It wouldn't be Monopoly without them. 
+
+Ages 8+
+
+  
+
+Trouble on the Moon 
+Trouble: On the Moon Edition
+
+(Image credit: Hasbro)
+
+
+Trouble: On The Moon Edition | $14.99 at Target
+Race to the airlock to escape a lunar emergency in Hasbro's Trouble: On The Moon Edition available at Target.VIEW DEAL
+
+Another classic turned cosmic, Trouble on the Moon makes some space-themed updates. Instead of trying to get several blob-shaped pieces "home," you're trying to get a group of astronauts exploring the moon safely into their airlocks. For the most part, playing this version is similar to playing the original Trouble. You pop a bubble in the middle of the board to roll two dice, which tell you how to move. 
+
+But in Trouble on the Moon, one of those die has a series of actions instead of numbers. Depending on the roll of that die, your astronauts might be afforded extra safety (like if you get fresh oxygen) or put into danger (like when you run into low fuel). The game also has a series of space tethers, which allow players to move more quickly around the board. 
+
+As with the original, the first player to get all four astronauts safely into their designated airlock wins the game. 
+
+Ages 5+
+
+  
+
+The Crew: Quest for Planet Nine
+The Crew: The Quest for Planet Nine
+
+(Image credit: Thames & Kosmos)
+
+
+The Crew: The Quest for Planet Nine | $14.95 on Amazon
+If you love a fantastic space-themed game, now is the perfect time to snatch up "The Crew." VIEW DEAL
+
+If you're looking for a game that's fun for the older space nerds in your life, The Crew is a perfect option. The Crew is a cooperative strategy game. Each player is on a team of astronauts traveling through the solar system in search of the mysterious Planet Nine. With cards and tokens, players need to complete 50 different missions on their journey, getting more and more difficult as the game progresses. 
+
+Each mission takes five to 10 minutes, and the game can be picked up over several different game plays (as long as you have the same team). 
+
+With a truly unique plot and challenges that require cooperation, The Crew makes for a fun game-night adventure. 
+
+Ages 10+
+
+  
+
+Spaceteam
+Spaceteam: A chaotic and cooperative card game
+
+(Image credit: Stellar Factory)
+
+
+Spaceteam Card Game | $26.95 on Amazon
+Work together to repair your spaceship! This chaotic and cooperative card game is quick to learn, easy to play and fast-paced. VIEW DEAL
+
+Once again, you and the other players in Spaceteam act together to save your crew. The premise of Spaceteam is that three to six astronauts (ie, players) are on a spaceship hurtling through space. But the ship is falling apart. In order to save yourselves, you have to work with the other members of your team to rebuild faster than it breaks.
+
+Each player has a set of blue "space tool" cards with ridiculous names like "centrifugal dispenser" and a set of orange "malfunction" cards. When it's time to play, you flip your first malfunction card face up on the table. And then you start shouting. Each malfunction care has a set of space tools that will fix it — you might have those tools in your hand, or they might be in someone else's hand. In order to get the tools you need, you have to yell and hope someone on your team passes you the right card. 
+
+
+What makes this difficult (and a bunch of fun!) is that everyone else is trying to fix their own malfunction. And so, this becomes a game of yelling over, and listening to, each other to work together and fix the ship. 
+
+Anomaly cards thrown into the deck provide extra challenges, and "systems go" cards (6 of them, which represent different parts of the ship) need to be collected before time runs out to win the game.
+
+Take it from Space.com staff, who are big fans of Spaceteam — this is a bundle of fun at any nerdy game night. 
+
+Ages 12+
+
+  
+
+Butts in Space 
+Butts in Space: The Card Game
+
+(Image credit: Butts in Space)
+
+
+Butts in Space: The Card Game | $25 on Amazon
+An out-of-this world card game about butts, toilet paper and toilet spaceships.VIEW DEAL
+
+As you might be able to guess, Butts in Space is hardly the most serious space game. As the story goes, Evil Butt has stolen all of the toilet paper in the universe and destroyed your toilet-shaped spaceship. Two to four players join the game as "Bow Butt," "Hairy Butt," "Classy Butt," or "Butt Butt." 
+
+This team of butts takes off on a quest throughout the universe to take the toilet paper back. These are, of course, no ordinary toilet papers. You have toilet paper that looks like a gumball machine, toilet paper that looks like a cupcake, like a pineapple, like a unicorn, and many more. 
+
+Throughout your quest, you're dodging obstacles like "Power Farts" and gaining safety cards like a lucky pair of underpants. Whoever has the most sets of toilet paper cards at the end of the game wins. 
+
+This colorful, cartoony, hilarious game is a fun time for any space nerd who doesn't take themselves too seriously. 
+
+Ages 9+
+
+
+Follow Kasandra Brabaw on Twitter @KassieBrabaw. Follow us on Twitter @Spacedotcom and on Facebook. 

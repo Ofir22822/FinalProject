@@ -1,0 +1,139 @@
+The 20 best Mac games
+The Mac may not get the biggest blockbusters, but you can play many of the best indie hits on your MacBook or iMac.
+By Leif Johnson, Contributing Writer, Macworld | Jan 5, 2020 11:00 am PST
+cuphead hero
+If there’s one good thing about the relative scarcity of games on the Mac, it’s that we often get the best games when we do get them. Sure, you’ll find a few stinkers, but the fact remains that many developers don’t even consider porting their creations—and they’re almost always ports—over to Apple’s desktop system unless they think they have a chance of surviving between brushed aluminum and a Retina display. In fact, there are enough quality games on Mac that I could easily rattle out a list with 30 more, but ain’t nobody got time for that. For our money (and yours), these are the best.
+
+A couple of quick notes: First, most links here go to Steam, but you can find many of the same titles on the Mac App Store. You'll almost certainly save money on Steam, though, especially since the Winter Sale is live right now. Secondly, some of these games haven't been updated for 64-bit support in macOS Catalina yet, so for now you can only play them on Mojave or earlier. Hopefully the devs will fix that soon, but we advise checking for the warning on the Steam landing page before buying a game.
+
+Share
+19 of 20View All
+Portal 2See larger imageValve
+Portal 2 ($9.99)
+Portal 2 may be the perfect game. It’s a puzzler at heart, but it injects those puzzles—which involve the best placement of the titular portals, which you create with a gun—into a masterful concoction of science fiction, memorable characters, and even a catchy song. It’s both memorable and challenging, and those challenges are designed in such a way that you feel triumphant when you finish.
+
+It’s also darkly relevant these days, centered as it is on a struggle with a malevolent A.I. whose passion for her work goes to inhuman extremes. Also a standout: the voice acting of J.K. Simmons as the facility’s founder.
+
+divinity original sin 2See larger imageLarian
+Divinity: Original Sin 2 ($44.99)
+If you only have time for one computer roleplaying game, then make it Divinity: Original Sin 2. The bar for making something better than this is so high that it might as well be in low-Earth orbit.
+
+“Divinity” is such a fitting name, as every element flirts with perfection. There’s the story, which manages to be moving and laugh-out-loud funny in equal measure. Then there’s the emphasis on choice, which affects everything from the characters you play or the instrument that dominates the soundtrack. And that’s not even mentioning all the other features, such as the co-op mode, PVP, or the combat system that encourages environmental interaction. There’s even a “Grand Master” mode that captures the spirit of pen-and-paper Dungeons & Dragons. This is one of the best games of all time, and we’re fortunate to have it on the Mac.
+
+underetaleSee larger imageToby Fox
+Undertale ($9.99)
+Few games smash the idea that the best modern games need to have storage-hogging, lifelike graphics quite like Undertale. Heck, I’ve even heard some of its biggest fans call it ugly.
+
+But that hasn’t stopped this 155MB indie hit from attracting thousands of players with its unique blend of humor, lore, and gameplay. Its setting comes off as standard fantasy fare, as you’re a human making your way out of an underworld where all the monsters were sealed away following a bitter war with the humans. Randomly spawning beasties seek to thwart your progress, and you’ll have to work you way past a series of puzzles.
+
+Beyond that, though, the unpredictable tale will introduce you to a dizzying array of fascinating characters over the course of six or so hours. And, should you choose, you can even chat your way out of trouble rather than slaying monsters. Note: At the time of writing, Undertale isn't supported in macOS Catalina.
+
+bioshock infiniteSee larger imageIrrational Games
+BioShock Infinite ($29.99)
+It’s a wonder that BioShock Infinite is even available on the Mac. This is the kind of critically acclaimed, graphically gorgeous blockbuster that usually never graces our favorite desktop system, but Aspyr followed up with an excellent Mac port only a handful of months after its 2013 release. (It’s too bad that it hasn’t followed up with a Catalina update yet, but hopefully that will be along shortly.)
+
+The first BioShock (2007) was groundbreaking, but this sequel breaks away from the ground entirely and takes us to a floating city founded on the worst excesses of American exceptionalism. Along the way, you’ll meet Elizabeth, who remains one of the most intriguing A.I. companions ever seen in a game. It’s a darn good shooter, too, but one of the rare ones that’ll also leave you asking uncomfortable questions about the nature of reality and this country once the smoke clears. Its messages remain relevant today.
+
+stardewvalleySee larger imageChucklefish
+Stardew Valley
+Many games are full of action and fury, but Stardew Valley takes a different tack by riffing off of Harvest Moon from the late ‘90s. It’s a game about farming (if you want it to be), but it’s also a game about chatting and possibly dating some of the locals in the sleepy little town you’ve chosen to call home. It’s a game about rival factions and small-town politics.
+
+It can also be a game about exploring a mysterious cave if you wish, but first and foremost it’s a relaxing and emotionally rewarding game about the ups and downs of life. Stardew Valley may look like a cousin of The Legend of Zelda: A Link to the Past, but in practice few games veer so far from fantasy as to capture the quiet delights or tragedies of reality.
+
+hollow knightSee larger imageTeam Cherry
+Hollow Knight ($14.99)
+The so-called "Metroidvania" genre has felt hollow for years now, but Hollow Knight fills that void so well that we should probably rename the genre in honor of it. Sorry, Metroid and Castlevania, you had a good run.
+
+Don’t expect much innovation from the actual gameplay, as you’ll still do a ton of 2D jumping and slashing and revisiting old areas once you gain new abilities. Hollow Knight absolutely nails these familiar elements, though, to the point that I’m still not tired of jumping and slashing almost 20 hours in. (You’ll want to master it, too, as Hollow Knight gets frickin’ hard if you don’t.)
+
+It’s also a game with heart. Our hero isn’t even a standard fantasy knight as you might think for the screenshots; instead, they’re a beetle-sized battler exploring an insect realm called the Hallownest. It’ll make you think games with a lot of bugs aren’t so bad, after all.
+
+return of the obra dinnSee larger imageIDG/Hayden Dingman
+The Return of the Obra Dinn ($19.99)
+The Return of the Obra Dinn manages to make insurance adjusting seem fascinating, and that’s only one of the reasons why this mystery counts as one of the Mac’s best games.
+
+When a long lost trade ship is found with nothing left on board but a few skeletons in a bizarro version of 1807, you have to piece together what happened by using your magical stopwatch to see the few seconds prior to the death of each passenger and crewmember. To avoid spoilers, let’s just say it gets significantly weirder than Mutiny on the Bounty.
+
+If you enjoy solving mysteries, it doesn’t get much better than this. And in a welcome nod to Mac gaming, you can adjust the already retro graphics so they look as though you’re playing on a 1980s Macintosh.
+
+slay the spireSee larger imageMega Crit
+Slay the Spire ($24.99)
+If you’ve wanted to understand the appeal of deck-building games but found yourself perplexed by the abstractions of Hearthstone or Gwent, check out Slay the Spire.
+
+This roguelike appeals to the action-oriented folks among us as it casts you in the role of one of three heroes battling their way up a tower. The top part of the screen resembles a turn-based RPG in the vein of old-school Final Fantasy, but you attack by drawing cards from your deck along the bottom. Victories over bosses award you with the choice of a new card, and you can buy other cards from merchants.
+
+Slay the Spire thus does a better job of showing card-game newbies how different cards play off each other than games like Magic: The Gathering, and even veterans will admire how it lets you build devastating combos that make the most of your heroes’ abilities. Just don’t expect to it be easy: The spire will slay you many times before you slay it.
+
+batman arkham citySee larger imageRocksteady
+Batman: Arkham City ($19.99)
+Batman: Arkham City is basically the DC Universe version of the 1981 flick Escape from New York: The powers that be have given up on a huge chunk of Gotham City and turned it into a high-security prison for the nastiest crooks.
+
+That can’t be great for real estate values, but it’s excellent news for anyone wanting an open-world beat-em-up with a healthy dose of stealth. You can glide and grapple over the roofs of Gotham for the first time in an Arkham game here, and so Arkham City captures the fantasy of being the Dark Knight better than any game before it. Nor is its appeal limited to action. Arkham City is almost a decade old now, but there’s rarely been a better Batman tale told in games, film, or print.
+
+firewatchSee larger imageCampo Santo
+Firewatch ($19.99)
+In this quiet indie game, you’re a ranger in a remote forest, keeping an eye out for potential wildfires. Knowing games, you’re probably expecting me to tell you that zombies come out at night and it’s your job to use your trusty shotgun to—nah, there’s none of that. Instead, it’s real forest ranger work. You spend a lot of time looking for kids who left their junk littered around a scenic swimming hole, and all the while chitchatting (and sort of flirting) with another ranger in a distant tower.
+
+Creepy shenanigans are indeed afoot, but Firewatch is more remarkable for its sense of place and characterization, to say nothing about its gorgeous settings and artwork that straddle the line between realism and impressionism. As much as it’s a store about finding answers to a local mystery, it’s a tale about finding oneself at the height of middle age. It’s art.
+
+baba is youSee larger imageHempuli Oy
+Baba Is You ($14.99)
+Baba Is You is not so much about breaking the rules as it is about changing them in your favor. This highly unique puzzler is also a little hard to explain in the abstract, so I’ll use the first puzzle to show you around.
+
+The rules are always right there in the floor, with each word represented by a movable tile. In this case they’re “Flag Is Win, Wall Is Stop, and Rock Is Push.” To win this match, you need to move your avatar—or Baba, who also happens to be a ewe, pun lovers—over the flag because “Flag Is Win.”
+
+Then it starts getting crazy. Sometimes you’ll start with a puzzle where “You Is Flag,” so you’ll have to rearrange the tiles so “Baba Is Win.” And so forth, even with new phrases like “Lava Is Hot.” It’s a simple concept that requires some complex thinking over the course of around 300 puzzles. If you’re a fan of puzzle games, though, you shouldn’t think too long before deciding to add this one to your library.
+
+Elder Scrolls OnlineZeniMax
+The Elder Scrolls Online: Tamriel Unlimited
+We may not have The Elder Scrolls: Skyrim on Mac—one of the most popular (and ported) RPGs of all time—but by gosh, we have The Elder Scrolls Online. It’s a sprawling MMORPG that’s set in Skyrim’s same universe and features many of the same locations—yes, including Skyrim—and it’s remarkable among modern MMORPGs for its freedom. Unlike, say, World of Warcraft (which is still a fine alternative after all these years), you’re not forced to quest through zones in a particular orde. Instead, ESO adjusts itself to your level.
+
+If you have the proper expansion, you can hop into brand-new content with everyone else right from the start. It’s respectful of your time, too, as far as MMOs go, as it lets you drop in and out at will. ESO also requires no subscription past the initial purchase (although there's a cash shop with loot boxes), and you can simply enjoy the entertaining quests and never group with another player if you so wish.
+
+lifeisstrangeSee larger imageDontnod
+Life is Strange ($19.99)
+Life is certainly strange even in the most mundane situations, but that statement especially rings true when you’re a teenager with superpowers, as you are here. If Firewatch was art because of how accurately it caught the uncertainties of middle age, Life is Strange is remarkable for capturing the ups and downs of adolescence.
+
+It’s also a sharp lesson in the Butterfly Effect. The key power in play here is the ability to rewind time, and Life is Strange proves that having the ability to go back and right past wrongs doesn’t always result in a happy ending. In fact, it sometimes makes things worse. But not to worry, O ye of ample faith in humanity: It’s possible for things to work out for the best as well. Do you dare risk everything for a second chance? That’s the question Life is Strange constantly asks, if you’re anything like me, you might be surprised at the answer you choose.
+
+Rocket LeagueSee larger imagePsyonix
+Rocket League ($19.99)
+Rocket League sounds like a cynical European’s attempt to get Americans interested in Europe’s favorite pastime. “It’s soccer…with muscle cars in a caged arena!” And yes, that’s essentially Rocket League in a nutshell.
+
+But, oh, it’s so worth it. It’s hard to pinpoint what makes the game so irresistible: Is it the speedy matches, awarding thrills to the victors and quick chances for redemption for the losers? Is it the colorful cars themselves, which range from Mario-themed roadsters to the Batmobile? Or is it the gameplay itself, which sends your car careening through the air and up walls to better bump a ball into a distant goal? I’m still not sure. Join me as I play a few dozen more rounds to figure it out.
+
+civilizationviSee larger imageFiraxis
+Civilization VI ($59.99)
+One more turn,” as the Civilization diehards like to say, and now we have one more game in this beloved strategy series that stretches back for decades. Some of those diehards will tell you that Civ V is the better game, but Civilization VI stands out for providing a smoother path to entry for newcomers and a host of experimental new concepts.
+
+Some work better than others, no doubt, it’s fun to try out each in the shoes of some of the most celebrated nations and figures of history. You’ll design cities, smartly placing key district next to each other on a gridded play area resembling a board game. You’ll raise armies. You’ll spread religions and dominate with science. And if you do well, you’ll bend other civilizations (and your friends, in multiplayer) to your will.
+
+tombraiderSee larger imageSquare Enix
+Tomb Raider (2013) ($19.99)
+Lara Croft isn’t as recognizable as Mario in the pantheon of gaming greats, but she comes pretty darn close. In the past, though, she had little in the way of personality. Tomb Raider remedied that by presenting us with a harrowing origin story where Lara starts out both vulnerable and human, and over the course of several bloody hours we see how she morphs from a humble scholar and into the strong-willed fighter we know today.
+
+Filled with beautiful locations and elements of survival games (though without the drudgery), it’s one of the more successful reboots in gaming memory. And while the newly ported Rise of the Tomb Raider has better gameplay and better tombs to explore, it never reaches the emotional highs and clear character development of the first game.
+
+kerbalspaceSquad
+Kerbal Space Program ($39.99)
+Even if you think you “get” how difficult space travel is, there’s a good chance you’ve never been hammered by its complexities so forcefully as you’ll be in Kerbal Space Program. Miraculously, this quirky simulation manages to be fun, rewarding, and occasionally hilarious. Your mission? To get the little green kernels to the moon and beyond using real-world physics (more or less), and these concepts are presented in such a way that you’ll likely learn the basic ideas behind space flight here far more clearly than you will from a book.
+
+Beyond that, you can capture asteroids and monitor them using a mission pack from NASA itself. Some players have been inspired into careers in astrophysics and aerodynamics through KSP, but it’s still plenty of plenty of fun if you’d prefer to keep your space-traveling ambitions limited to a Mac screen. It’s a rare example of educational games being done right.
+
+starcraftSee larger imageBlizzard
+StarCraft II (Free)
+StarCraft II: Wings of Liberty takes place in space as well, but it takes a — shall we say — slightly less authentic approach to space travel and exploration. (For now, anyway.) It’s still one of the best real-time strategy games on any system, and the South Koreans loved it so much that it practically defined a generation at its height. Part of its appeal lies in its memorable cast of characters, no doubt, but the bulk of its reputation rests on the satisfying differences between the Terran, Protoss, and Zerg factions, as well as the satisfying juggle of multiple priorities.
+
+If all of that doesn’t convince you to try it out, then consider this: It’s now totally free. You can buy the fantastic expansions if you wish, but the low price of nothing gets you both StarCraft II’s campaign as well as the addicting multiplayer component that still thrives today.
+
+diabloiiiBlizzard
+Diablo III ($19.99)
+Diablo III is an action RPG about kicking butt and collecting loot, and often as quickly as possible. Oh, and there’s a whole bit about going into Hell and having a strongly worded conversation with the biggest bad guy himself. Diablo III had a bit of a rough start thanks to a real-money auction house that kind of defeated the whole appeal of the core experience, but Blizzard at last excised that particular blight and replaced it with better classes, a free-form exploration mode, and a phenomenal expansion. It’s now a devilish bit of fun.
+
+cupheadSee larger imageStudio MDHR
+Cuphead ($19.99)
+Not far into Cuphead, there’s a boss that works as a metaphor for the whole game. At first sight, it looks like an adorable, inviting flower. It’s even smiling! Once you draw near, though, its teeth morph into fangs and its petals become flames. You’ll probably never think of "flower power" as an innocent thing again.
+
+Look, I feel uncomfortable including Cuphead in this list because it’s stupidly hard. Even if you think you’re a skilled player, you probably feel like poor Wile E. Coyote at the mercy of the Road Runner after only a couple of hours. You can play it in co-op if you wish, but I wouldn’t expect that to make it much easier. Consider yourself warned.
+
+If you can stomach that, though, you’ll be rewarded with some of the most creative boss battles ever seen in a 2D platform. Cuphead is also a triumph of artistic vision: No other game so perfectly makes you feel as though you’re playing in a 1920s Fleischer Studios cartoon.

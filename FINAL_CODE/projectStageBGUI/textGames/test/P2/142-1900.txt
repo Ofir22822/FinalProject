@@ -1,0 +1,79 @@
+The 10 best Mac games of 2019
+Apple Arcade stole the spotlight this year, but 2019 also gave us some great games that weren't part of Apple's subscription service.
+By Leif Johnson, Contributing Writer, Macworld | Dec 20, 2019 4:15 am PST
+total war three kingdoms hero
+This year was one of the best years for gaming in ages–that is, if you weren’t playing on a Mac. Regular releases of Mac games were so scarce this year that this past summer we retired our monthly roundup because finding five good new games every month started to feel like looking for an Apple I in a garage sale.
+
+But 2019 looks a lot better when we zoom back and look at it as a whole. For one, we have all the wonderful games in Apple Arcade, but I talk about those games in a separate list. (Don’t worry: The list largely remains the same regardless of whether you’re playing on an iPad or a Mac.) For another, we saw great stuff from MMORPGs, which have always been kinder to Macs than other genres. And last (but certainly not least), we saw some excellent entries from indie studios.
+
+Share
+10 of 10View All
+ffxiv shadowbringersSee larger imageSquare Enix
+Final Fantasy XIV: Shadowbringers ($39.99)
+If there’s one thing you can generally count on in a Final Fantasy game, it’s that the “warriors of light” will save the day. Final Fantasy XIV’s Shadowbringers expansion, though, flips that concept on its head and casts the light as an oppressive, all-consuming force that threatens to consume the world—in another dimension, anyway. And so this time around, you’re the warriors of darkness.
+
+It’s a simple concept, but it provides fertile ground for the best story we’ve seen from Square Enix’s popular MMO to date. (For that matter, it’s one of the best stories to come out of an MMO, period.) Considering that it also comes with excellently designed dungeons and two fun new classes, it’s an experience you shouldn’t miss—and it’s gotten even better with subsequent patches. For a more detailed look at Shadowbringers, check out my review over at PCWorld.
+
+total war three kingdomsSee larger imageCreative Assembly
+Total War: Three Kingdoms ($59.99)
+Long-running series tend to lose their vitality as they grow older, but Total War is somehow getting better. In Total War: Three Kingdoms, we have a near-perfect strategy game that shows it’s learned all the right lessons from its predecessors.
+
+If you want to battle through China’s turbulent second century with Total War’s traditional tactics and statecraft, you can. But if you want a dash of the fantasy you’d get from Total War’s acclaimed Warhammer titles, pick the “Romance” campaign. Generals are unprotected and almost like gods, tactics are deemphasized, and generals can duel each other in order to turn the tide of a battle.
+
+Three Kingdoms takes cues from Crusader Kings II and makes this the most character-driven of the Total Wars, a fitting direction considering its roots in the historical novel The Romance of the Three Kingdoms. If you’re into strategy, don’t miss it. It’s the closest thing we’ve gotten to a “total package” in a Total War game to date.
+
+untitled goose gameSee larger imageHouse House
+Untitled Goose Game ($19.99)
+Untitled Goose Game didn’t have a blockbuster budget, nor does it drag on for 70 or more hours as so many games do these days. (In fact, you could easily finish it in less time than it takes to watch Star Wars: The Rise of Skywalker.) But it was the game everyone couldn’t stop talking about this year.
+
+Its own tagline explains the concept nicely: “It is a lovely morning in the village and you are a horrible goose.” Like a trickster god, you spend the day doing all kinds of awful (yet nonviolent) things to people, whether it’s stealing someone’s shoes or forcing a little boy to buy back his own toy.
+
+Thanks to elements like the Debussy soundtrack, delightful animations, and the goose’s spine-shuddering honk, it’s both relaxing and cathartic. Unlike the goose, it also has the good sense to call it quits before it wears out its welcome.
+
+baba is youSee larger imageHempuli Oy
+Baba Is You ($14.99)
+The rules of Baba is You are always right there on the floor of its 2D arenas, and you start off with Baba Is You, Flag Is Win, Wall Is Stop, and Rock Is Push. At the beginning—because, you see, Flag is Win—victory involves little more than making Baba (who, incidentally, is a ewe) move over the flag.
+
+But it’s the following levels that make this one of the most creative and mind-bending puzzle games in years. Each word of a rule is a tile, and you (or the game) can move these words around in order to change the rules. So if you change the words to read “Rock Is Win,” you can win by making Baba run over the rock instead. Sometimes stages even start out with “Flag Is You.”
+
+That’s but a tiny taste of the many ways this wonderful puzzler challenges your creativity and intellect over the course of around 200 stages. You’ll spend a lot of time lost in thought, but it’s time well-spent.
+
+katana zeroSee larger imageAskiisoft
+Katana Zero ($14.99)
+You’re a pixel-art, bathrobe-wearing urban samurai in Katana Zero, and your blade slices through swarms of gun-toting goons who never get a chance to touch you. Sometimes you’ll deflect bullets. Sometimes you’ll drop to kill your foes after scrambling through hidden passages. Sometimes you’ll even slow time.
+
+You need to achieve this level of godliness to complete each level, but it takes a bit of work. Put bluntly, you’re going to die a lot. Katana Zero only looks like adrenaline-rushing 2D platforms like Super Meat Boy; in concept, it’s more like a puzzle that focusing on timing and avoidance. Each death is presented as merely failed planning, while a perfectly executed stage gets presented as footage from a security camera reel. Along with some superb settings and lightly branching story paths, it all comes together to make Katana Zero one of the most remarkable games of the year. Note: Unfortunately, Katana Zero hasn’t been updated to support 64-bit in macOS Catalina yet.
+
+sunless skiesSee larger imageFailbetter Games
+Sunless Skies ($24.99)
+If the idea of steaming through space in a locomotive doesn’t strike you as all that safe, Sunless Skies will do little to convince you otherwise. The hull breaks easily, fuel is scarce, food is even scarcer, and almost every action in this gothic horror roleplaying game brings the threat of death. It’s the sequel to 2015’s acclaimed Sunless Sea, and Skies manages to spin both a better yarn and be less punishing for new players.
+
+Much of the action unfolds in text, with progression hinging on how successfully the dice roll when you select choices. Don’t let that scare you away, though, as Sunless Skies achieves wonders with text that go unmatched by some of this year’s flashiest cutscenes and processor-straining graphics. It’s surreal, tense, and this year’s masterclass in storytelling.
+
+wargrooveSee larger imageChucklefish
+Wargroove ($19.99)
+We haven’t seen a new Advance Wars game in over a decade, and Wargroove makes no attempt to hide the fact that it exists to fill that gap. It looks like Advance Wars. It plays a lot like it. And if you’ve never played that wonderful turn-based tactics series, Wargroove is a fine substitute.
+
+Most levels involve either sacking the enemy’s base or defeating their commander, and the large maps often make this a challenge. It’s a game that rewards smart thinking, whether it’s through amassing resources or well-timed uses of special abilities that can, say, call skeletons into battle or heal surrounding troops.
+
+And with so much content, you’re sure to get into the groove. Beyond the sprawling main campaign, Wargroove comes with a multiplayer mode for up to four players, an arcade mode focusing on specific commanders, and a great puzzle mode where you have to win a match within one turn. You can even make your own Wargroove scenarios with a startlingly robust editor.
+
+a short hikeSee larger imageadamgryu
+A Short Hike ($7.99)
+True to its name, A Short Hike only takes a couple of hours to finish. I’m including it on this list, though, because I still find myself thinking about it a couple of months later. If Mr. Rogers had made a video game, I like to think it would have turned out something like this.
+
+You’re a little bird in this tale, and with no greater goal than to reach the summit of the peak on the island where your family is vacationing. You technically don’t even have to do much more than that. But the real A Short Hike, you might say, is the friends you make along the way.
+
+Some folks you see need help, some want to chat, and some just want to play, but the beauty of A Short Hike is that you’ll want to help them and spend time with them. It’s a game that says much with few words, and it captures the beauty of nature and flying even with its simplistic visual style. It’d be a perfect fit for Apple Arcade, but for now I’ll just be happy we can play it on the Mac at all.
+
+borderlands 3See larger imageGearbox
+Borderlands 3 ($59.99)
+The poor Mac doesn’t get a lot of love from so-called “AAA” games publishers—and when you do see these types of games, they’re usually in the form of third-party ports that drop months (or years) after their PC and console counterparts. Borderlands 2, though, was a famous exception, and Gearbox showed its love for Mac this year again when it dropped Borderlands 3 at the same time the looter-shooter dropped for everyone else.
+
+That also means we got to deal with all the game’s many bugs at the same time—but fortunately, the experience is a little better some months after launch. The latest outing is fun, it’s packed with all types of guns, and it takes you to wacky and stunning locations throughout the savage world of Pandora. In short, it’s Borderlands. It’s not without a few tricks of its own, though: Along with the four new classes, you get a form of player housing, loot scaling, and in a nice shift, you even get to go into space.
+
+void bastards heroSee larger imageBlue Manchu
+Void Bastards ($29.99)
+Void Bastards is a game about exploring derelict ships and ransacking them for supplies so you can escape to a safer sector, and it’s made by some of the same minds behind BioShock and System Shock 2. But this delightful spacefaring “rogue-lite” doesn’t bother with those games’ weighty philosophical themes. Instead, it’s all about staying alive, and it peppers that desperation with some great one-liners. It’s about taking along the right crew and crafting the right items across the roughly 15-hour campaign. Sometimes it’s a first-person shooter, sometimes it’s a galactic explorer, but it’s almost always a blast.
+
+It’s also about as fun to look at as it is to play. Void Bastards uses a comic book aesthetic that plasters the screen with KBOOMs and VROOPs during intense action sequences, and even the interface elements resemble text boxes you might find in the latest rag from Marvel or DC. Be warned, though: As with many games with roguelike elements, some repetition inevitably settles in.

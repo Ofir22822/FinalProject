@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.HomePageController">
+   <children>
+      <AnchorPane prefHeight="585.0" prefWidth="553.0" styleClass="main" stylesheets="@application.css">
+         <children>
+            <AnchorPane layoutX="11.0" layoutY="15.0" prefHeight="556.0" prefWidth="528.0" style="-fx-background-color: white; -fx-opacity: 0.75;">
+               <children>
+                  <TextField fx:id="word_rank_value" layoutX="329.0" layoutY="165.0" onKeyPressed="#changeValue_word_rank2" prefHeight="25.0" prefWidth="60.0" />
+                  <TextField fx:id="sent_rank_value" layoutX="329.0" layoutY="214.0" onKeyPressed="#changeValue_sentence_rank2" prefHeight="25.0" prefWidth="60.0" />
+                  <TextField fx:id="avg_value" layoutX="329.0" layoutY="326.0" onKeyPressed="#changeValue_dict_avg2" prefHeight="25.0" prefWidth="60.0" />
+                  <TextField fx:id="corr_start_value" layoutX="329.0" layoutY="375.0" onKeyPressed="#changeValue_dict_corr_start2" prefHeight="25.0" prefWidth="60.0" />
+                  <TextField fx:id="corr_end_value" layoutX="329.0" layoutY="421.0" onKeyPressed="#changeValue_dict_corr_end2" prefHeight="25.0" prefWidth="60.0" />
+               </children></AnchorPane>
+            <Label layoutX="45.0" layoutY="39.0" text="Setting" underline="true">
+               <font>
+                  <Font name="System Bold" size="30.0" />
+               </font>
+            </Label>
+            <Label layoutX="45.0" layoutY="157.0" text="Sentiment Settings:">
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font>
+            </Label>
+            <Label layoutX="45.0" layoutY="315.0" text="Dictionary Setting:">
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font>
+            </Label>
+            <Label layoutX="66.0" layoutY="237.0" prefWidth="185.0" text="sentence rank threshold" wrapText="true">
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font>
+            </Label>
+            <Label layoutX="64.0" layoutY="407.0" text="correlation threshold">
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font>
+            </Label>
+            <Label layoutX="64.0" layoutY="199.0" text="word rank threshold">
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font>
+            </Label>
+            <Label layoutX="64.0" layoutY="357.0" text="average ">
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font>
+            </Label>
+            <Slider fx:id="start_correlation_dict_slider" blockIncrement="0.01" layoutX="300.0" layoutY="414.0" max="1.0" onMouseReleased="#changeValue_dict_corr_start" />
+            <Slider fx:id="rank_senti_slider" layoutX="300.0" layoutY="207.0" max="50.0" onMouseReleased="#changeValue_word_rank" />
+            <Slider fx:id="avg_dict_slider" blockIncrement="1.0" layoutX="300.0" layoutY="365.0" max="10.0" onMouseReleased="#changeValue_dict_avg" />
+            <Slider fx:id="end_correlation_dict_slider" blockIncrement="0.01" layoutX="300.0" layoutY="459.0" max="1.0" onMouseReleased="#changeValue_dict_corr_end" />
+            <Button fx:id="btnSaveSetting" layoutX="212.0" layoutY="510.0" mnemonicParsing="false" onMouseClicked="#saveSetting" prefHeight="38.0" prefWidth="91.0" text="save">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Button>
+            <Label layoutX="45.0" layoutY="104.0" text="Training Set Subject:">
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font>
+            </Label>
+            <RadioButton layoutX="257.0" layoutY="109.0" mnemonicParsing="false" selected="true" text="Games">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+               <toggleGroup>
+                  <ToggleGroup fx:id="subject_set" />
+               </toggleGroup>
+            </RadioButton>
+            <RadioButton layoutX="358.0" layoutY="109.0" mnemonicParsing="false" text="Travel" toggleGroup="$subject_set">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </RadioButton>
+            <Label fx:id="rank_seni_value1" layoutX="275.0" layoutY="359.0" text="0">
+               <font>
+                  <Font name="System Bold Italic" size="16.0" />
+               </font>
+            </Label>
+            <Label fx:id="rank_seni_value11" layoutX="445.0" layoutY="359.0" text="10">
+               <font>
+                  <Font name="System Bold Italic" size="16.0" />
+               </font>
+            </Label>
+            <Slider fx:id="rank_sentence_senti_slider" blockIncrement="0.01" layoutX="300.0" layoutY="253.0" max="50.0" onMouseReleased="#changeValue_sentence_rank" />
+            <Label fx:id="rank_seni_value12" layoutX="275.0" layoutY="201.0" text="0">
+               <font>
+                  <Font name="System Bold Italic" size="16.0" />
+               </font>
+            </Label>
+            <Label fx:id="rank_seni_value111" layoutX="445.0" layoutY="201.0" text="50">
+               <font>
+                  <Font name="System Bold Italic" size="16.0" />
+               </font>
+            </Label>
+            <Label fx:id="rank_seni_value13" layoutX="275.0" layoutY="453.0" text="0">
+               <font>
+                  <Font name="System Bold Italic" size="16.0" />
+               </font>
+            </Label>
+            <Label fx:id="rank_seni_value112" layoutX="445.0" layoutY="453.0" text="1">
+               <font>
+                  <Font name="System Bold Italic" size="16.0" />
+               </font>
+            </Label>
+            <Label fx:id="rank_seni_value121" layoutX="275.0" layoutY="408.0" text="0">
+               <font>
+                  <Font name="System Bold Italic" size="16.0" />
+               </font>
+            </Label>
+            <Label fx:id="rank_seni_value1111" layoutX="445.0" layoutY="408.0" text="1">
+               <font>
+                  <Font name="System Bold Italic" size="16.0" />
+               </font>
+            </Label>
+            <Label fx:id="rank_seni_value1211" layoutX="275.0" layoutY="247.0" prefWidth="0.0" text="0">
+               <font>
+                  <Font name="System Bold Italic" size="16.0" />
+               </font>
+            </Label>
+            <Label fx:id="rank_seni_value11111" layoutX="445.0" layoutY="247.0" text="50">
+               <font>
+                  <Font name="System Bold Italic" size="16.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
