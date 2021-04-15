@@ -1,4 +1,0 @@
-By default, the k value is 1, we can pass the value of k while creating the instance.
-If the value of k is 1, it will display 1 product (1 nearest neighbor) and if the value of k is 2, it will display the 2 products.
-Using the above example, if we want to know the two most likely products to be purchased by Customer No.
-5, we may conclude that they are books and a DVD based on the formula..
